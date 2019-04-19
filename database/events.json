@@ -1,0 +1,2724 @@
+{
+    "SINGAPORE": {
+        "status": {
+            "code": 200,
+            "message": "OK",
+            "errorDetail": ""
+        },
+        "data": [
+            {
+                "startDate": "2019-05-16T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1010c68450439634a52bbedad4be6acbf86",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1011e3db48d2c4b4c6d9697e66cdb044073",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-06-02T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "elizabethwong@artshouse.sg",
+                    "createdBy": "elizabethwong@artshouse.sg",
+                    "createdDate": "2019-03-29T15:20:04Z",
+                    "updatedDate": "2019-03-29T15:20:04Z"
+                },
+                "uuid": "0048d0e81c18be6433eac2bd3426de4699a",
+                "companyDisplayName": "ARTS HOUSE LTD.",
+                "body": "<p>As Singapore\u2019s annual pinnacle arts festival, the Singapore International Festival of Arts (SIFA) presents captivating and diverse works across theatre, music, dance, film and visual arts. First launched as the Singapore Festival of Arts in 1977, the festival has gone through several evolutions and inspired generations of arts lovers and practitioners. Today, the highly-anticipated festival is a high-point on Singapore\u2019s arts and cultural calendar.</p><p>\nUnder the helm of Festival Director Gaurav Kripalani from 2018\u20132020, SIFA continues its festival mission to champion the creation and presentation of Singaporean and international works. \n\nFestival House\n \nAt SIFA 2019, The Arts House will once again be transformed into the Festival House. With meaningful engagement opportunities from artists talks, workshops, discussions and the festival bar\u2014House Pour, the Festival House breaks down the walls between artists and audiences to create unique experiences and inspiring artistic encounters.<br></p>",
+                "officialEmail": "sifa@artshouse.sg",
+                "eventOrganizer": "Arts House Limited",
+                "ticketed": "Y",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "",
+                "officialWebsite": "www.sifa.sg",
+                "singaporeTourismAwards": "N",
+                "description": "3 exhilarating weeks of artistic adventures at Singapore's pinnacle arts festival",
+                "source": "ARTS HOUSE LTD.",
+                "tags": [
+                    "Full-Day",
+                    "Culture Shaper",
+                    "Indoors",
+                    "Entertainment",
+                    "Musicals",
+                    "Music",
+                    "Exhibitions",
+                    "Performances",
+                    "Central",
+                    "Outdoors",
+                    "Singapore International Festival of Arts",
+                    "Theatres"
+                ],
+                "address": {
+                    "floorNumber": "03",
+                    "postalCode": "199918",
+                    "buildingName": "",
+                    "block": "",
+                    "streetName": "Aliwal Arts Centre, 28 Aliwal St",
+                    "unitNumber": "05"
+                },
+                "name": "Singapore International Festival of Arts 2019 ",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "startDate": "2019-06-08T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1018232973f3edb425496b64835f568f0b1",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1016be91831a9644da3a723f7fc21f2aa8f",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101279c9377327e4362ace7837e43cb65f2",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-06-09T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "alex@umfsingapore.asia",
+                    "createdBy": "alex@umfsingapore.asia",
+                    "createdDate": "2018-12-12T13:26:02Z",
+                    "updatedDate": "2018-12-12T13:26:02Z"
+                },
+                "uuid": "00492d521e5c1764731a04fe28a9eb37748",
+                "companyDisplayName": "ULTRA SINGAPORE PTE. LTD.",
+                "body": "<p>ULTRA Singapore is part of the greater Ultra Worldwide family, producer of 45 events in 20 countries across 5 continents.&nbsp;It is the only edition of the festival in Southeast Asia.&nbsp;\nOn the heels of its sold-out 2015 soft launch, ULTRA Singapore was upgraded to full festival status in 2016.&nbsp;Following a successful festival in 2016 which saw 45 000 attendees,&nbsp;ULTRA Singapore 2017 welcomed over 47,000 attendees from 60 countries to its iconic Marina Bay location&nbsp;on June 10th &amp; 11th.&nbsp;\n40 world class acts performed across Ultra\u2019s triumvirate of the Main, LIVE, and Resistance Stages. Next year, we welcome the fourth edition of ULTRA Singapore, dates and venue to be released. Stay tuned!&nbsp;<br></p>",
+                "officialEmail": "info@ultrasingapore.com",
+                "eventOrganizer": "ULTRA Singapore",
+                "ticketed": "Y",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bayfront",
+                "officialWebsite": "http://ultrasingapore.com",
+                "singaporeTourismAwards": "N",
+                "description": "Ultra Singapore is an outdoor electronic music festival that debuted in 2015 in Singapore as part of Ultra Music Festival's worldwide expansion, which has now spread to twenty countries.",
+                "source": "ULTRA SINGAPORE PTE. LTD.",
+                "tags": [
+                    "Entertainment",
+                    "Music"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "018971",
+                    "buildingName": "",
+                    "block": "",
+                    "streetName": "1 Bayfront Avenue",
+                    "unitNumber": ""
+                },
+                "name": "ULTRA Singapore 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-05-09T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101d53ffcf2dfb147dea587b1f759473fde",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101c4e64972f2b5440ebfba757e87099a0a",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-05-09T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "juzanvinajunadi@gmail.com",
+                    "createdBy": "juzanvinajunadi@gmail.com",
+                    "createdDate": "2019-03-22T16:48:40Z",
+                    "updatedDate": "2019-03-22T16:48:40Z"
+                },
+                "uuid": "004df447dd6c9b544759ce144b0921f7dfc",
+                "companyDisplayName": "LAMC PRODUCTIONS PTE LTD",
+                "body": "<p>LAMC Productions is excited to announce that Atlanta Hip-hop Superstar and Multi-platinum trailblazer, <b>Future</b>, will make his anticipated debut in Singapore on <b>May 9, 2019,</b> at <b>ZEPP@BIGBOX</b>!\n</p><p>\nFuture just released his anxiously awaited seventh full-length album, Future Hndrxx Presents: The WIZRD. Upon arrival, it captured a spot in the Top 5 on Apple Music Overall Top Albums Chart and #1 on Apple Music Top Hip-Hop/Rap Albums Chart where it continues to hold strong.\n</p><p>\nTickets go on sale at <b>10am on Mar 25, 2019</b>, via the official ticketing agent SISTIC, at www.sistic.com.sg&nbsp;and via the SISTIC Hotline (65) 6348-5555 and at all SISTIC Authorised Agents.\n</p><p>\nAdmission: Ages 16 &amp; above.\n</p><p><br></p><p>\n\n\nALL SHOW INFO:\n\nhttp://www.lamcproductions.com/future</p><p><br></p><p>\n</p><p>\n\n\nTICKETS:\n</p><p><u>\nGeneral Admission Standing\n</u></p><p><b>\nEarly-bird: S$148</b>*\n</p><p>\n(Mar 25 -Mar 27)\n</p><p><b>\nStandard: S$158</b>*\n</p><p>\n(From Mar 28)\n</p><p><b>\nAt the door: S$168</b>*\n</p><p>\n(May 8 &amp; 9)</p><p><br></p><p>\n</p><p>\n</p><p><u style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Add-ons:</u><br></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>\nPriority-entry: S$25</b>*^\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>\nVIP Hospitality: S$150</b>*^\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\n\n*Excluding SISTIC Booking Fee\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n^Excluding Concert Ticket</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\n\nSubscribe to our Newsletter now:\n\nhttp://eepurl.com/VvaoD</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\nFollow us on Twitter &amp; Instagram for breaking concert news!\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nhttp://twitter.com/lamcproductions\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\nhttp://instagram.com/lamcproductions</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">http://facebook.com/lamcproductions7</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Subscribe to our YouTube channel\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nhttp://www.youtube.com/lamcproductions7</span></p>",
+                "officialEmail": "",
+                "eventOrganizer": "LAMC Productions Pte Ltd",
+                "ticketed": "Y",
+                "price": "$148 - $168",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Jurong East MRT",
+                "officialWebsite": "",
+                "singaporeTourismAwards": "N",
+                "description": "Hip-hop Superstar and Multi-platinum trailblazer, Future, will make his anticipated debut in Singapore on May 9, 2019, at ZEPP@BIGBOX!",
+                "source": "LAMC PRODUCTIONS PTE LTD",
+                "tags": [
+                    "Music"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "608521",
+                    "buildingName": "Zepp@BIGBOX Singapore",
+                    "block": "",
+                    "streetName": "1 Venture Avenue, Level 3",
+                    "unitNumber": ""
+                },
+                "name": "Future Live in Singapore 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2018-08-02T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10183ee004b17c5414fbfd0b45d55b73cd3",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101311b81f9bc55498d8408eaba0e84ecd9",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101207d6d6f3dff4dee9dbb3c02dc9a6c90",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-06-09T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-14T15:11:32Z",
+                    "updatedDate": "2019-01-14T15:11:32Z"
+                },
+                "uuid": "0047d030bf4a33b474c8e26fd01eccf8cea",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p>Lim Cheng Hoe (1912\u20131979) was the leading watercolour artist of his generation and one of the founders of the Singapore Watercolour Society. Largely self-taught, he studied painting under the then-art inspector of schools, Richard Walker, and honed his skills in the 1950s and 1970s by practicing and interacting with fellow artists during outdoor painting sessions.\n\n \n\n</p><p>Beginning with the early days of his practice in the 1930s, this exhibition features over 60 artworks, sketches and archival materials that highlight Lim\u2019s mastery of outdoor watercolour landscape painting.<br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "Y",
+                "price": "General admission | Free for locals and PRs, $20 for Non-Singaporeans",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg/limchenghoe",
+                "singaporeTourismAwards": "N",
+                "description": "Lim Cheng Hoe (1912\u20131979) was the leading watercolour artist of his generation and one of the founders of the Singapore Watercolour Society. Largely self-taught, he studied painting under the then-art inspector of schools, Richard Walker, and honed his skills in the 1950s and 1970s by practicing and interacting with fellow artists during outdoor painting sessions.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums",
+                    "Attractions"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": ""
+                },
+                "name": "Lim Cheng Hoe: Painting Singapore",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "startDate": "2019-07-20T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1019c7d37c080dc462db91188557148c826",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "10132aa0f380e50456f9b5add5f52632874",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-07-21T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "darren@catalystmedia.com",
+                    "createdBy": "darren@catalystmedia.com",
+                    "createdDate": "2019-01-08T13:20:42Z",
+                    "updatedDate": "2019-01-08T13:20:42Z"
+                },
+                "uuid": "004d4e606f31db44b088a50f3bc0e9397f5",
+                "companyDisplayName": "CATALYST MEDIA GROUP PRIVATE LIMITED",
+                "body": "<p>The International Champions Cup is the world\u2019s premier pre-season football tournament featuring the top football clubs in the world. After launching in 2013, the tournament has revolutionised the global pre-season window with consistent delivery of mouth-watering matches to fans around the world. It is now the undisputed dominant tournament force during the critical pre-season period.\n Since 2017, Singapore is the only South East Asian country to host a leg of the tournament in the region, with the 2019 tournament being the third edition held here. This year, the global format will be reprised with each club playing three matches in total with the overall standings determined on a points-based system, crowning one overall global winner.<br></p>",
+                "officialEmail": "",
+                "eventOrganizer": "Relevent Sports",
+                "ticketed": "Y",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Stadium MRT",
+                "officialWebsite": "",
+                "singaporeTourismAwards": "N",
+                "description": "Premier pre-season football tournament featuring the world's top football clubs",
+                "source": "CATALYST MEDIA GROUP PRIVATE LIMITED",
+                "tags": [
+                    "Sports Events",
+                    "Sports"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "397629",
+                    "buildingName": "National Stadium",
+                    "block": "",
+                    "streetName": "",
+                    "unitNumber": ""
+                },
+                "name": "International Champions Cup 2019 in Singapore",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Sports"
+            },
+            {
+                "startDate": "2019-04-11T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101a9a758967e9948dd9ed8d000b9889361",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1019632422cb4f54461ba9f7f81d8c4f2d2",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-04-11T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "juzanvinajunadi@gmail.com",
+                    "createdBy": "juzanvinajunadi@gmail.com",
+                    "createdDate": "2019-02-25T16:02:31Z",
+                    "updatedDate": "2019-02-25T16:02:31Z"
+                },
+                "uuid": "0047f43577323d148e386b41355a22d7f06",
+                "companyDisplayName": "LAMC PRODUCTIONS PTE LTD",
+                "body": "<p>LAMC Productions is excited to announce that SABRINA CARPENTER, will make her debut in Singapore with \u2018The Singular Tour\u2019 on Apr 11, 2019, at Kallang Theatre!\n</p><p><br></p><p>\nNineteen-year-old singer, songwriter, and actor Sabrina Carpenter\u2019s journey into music, television, and film began at an early age.&nbsp;<span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Her debut album, Eyes Wide Open, released in 2015, reflected her life over the previous three years, while her sophomore album, EVOLution, released in 2016, launched her first ever sold-out fall 2016 headline EVOLution Tour, traveling across 35+ cities in the United States. In May 2017, she joined The Vamps as a special guest on their UK arena tour as well as Ariana Grande\u2019s Dangerous Woman tour in Brazil in June before heading out on The De-Tour, her 30+ date summer headline trek in July.\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nPrior to The De-Tour, Carpenter co-wrote and released her RIAA-certified gold single, \u201cWhy,\u201d which Billboard hailed as \u201chighly promising of what\u2019s to come,\u201d and proved to be a hit on Top 40 radio. Carpenter\u2019s vocals were featured on Lost Kings\u2019 track \u201cFirst Love,\u201d released in October 2017. In 2018, she released \u201cAlien\u201d with Jonas Blue, which became the #1 Breakout Song on the Billboard Club chart and has amassed nearly 43 million global combined streams since its release. Most recently, she was featured on \u2018The Hate U Give\u2019, which was released in Oct 2018. She is also set to star in the upcoming independent film The Short History of the Long Road opposite Steven Ogg, Maggie Siff and Danny Trejo. Her third studio album, Singular: Act I, was released on November 9, 2018., to rave reviews!\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nGET YOUR TICKETS NOW!\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\n\nTICKETS ARE ON SALE: <a href=\"https://www.sistic.com.sg/events/carpenter0419\" target=\"_blank\">https://www.sistic.com.sg/events/carpenter0419</a>\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nTICKETS: S$148*, S$128*, S$108* &amp; S$88*\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n*Not Including booking fees\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n------\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\n\n\n\nSubscribe to our newsletter:&nbsp;</span><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><a href=\"http://eepurl.com/VvaoD\" target=\"_blank\">http://eepurl.com/VvaoD</a></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\nFollow us on Facebook, Twitter &amp; Instagram for breaking concert news!\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n<a href=\"http://twitter.com/lamcproductions\" target=\"_blank\">http://twitter.com/lamcproductions</a>\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n<a href=\"http://instagram.com/lamcproductions\" target=\"_blank\">http://instagram.com/lamcproductions</a>\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n<a href=\"https://www.facebook.com/lamcproductions7\" target=\"_blank\">https://www.facebook.com/lamcproductions7</a>\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\nSubscribe to our YouTube channel:&nbsp; <a href=\"http://www.youtube.com/lamcproductions7\" target=\"_blank\">http://www.youtube.com/lamcproductions7</a></span></p>",
+                "officialEmail": "concerts@lamcproductions.com",
+                "eventOrganizer": "LAMC Productions Pte Ltd",
+                "ticketed": "Y",
+                "price": "S$88 - S$148",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Stadium",
+                "officialWebsite": "https://www.lamcproductions.com",
+                "singaporeTourismAwards": "N",
+                "description": "Sabrina Carpenter makes her debut in Singapore with 'The Singular Tour' this April 2019!",
+                "source": "LAMC PRODUCTIONS PTE LTD",
+                "tags": [
+                    "Nightlife",
+                    "Indoors",
+                    "Night",
+                    "Music",
+                    "Landmarks",
+                    "Performances",
+                    "Group of People",
+                    "East"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "397689",
+                    "buildingName": "Kallang Theatre",
+                    "block": "",
+                    "streetName": "Level 1, 1 Stadium Walk",
+                    "unitNumber": ""
+                },
+                "name": "Sabrina Carpenter Live in Singapore 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-08-27T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101da8a554de8e448ebbea12154e37b2aee",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1016fd8574ec8aa40aba6fa3356bfa1b813",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-08-27T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "lacomedylive@gmail.com",
+                    "createdBy": "lacomedylive@gmail.com",
+                    "createdDate": "2019-04-10T16:36:11Z",
+                    "updatedDate": "2019-04-10T16:36:11Z"
+                },
+                "uuid": "0048803503c3c104cf7896f70353d442faa",
+                "companyDisplayName": "LA COMEDY LIVE PTE. LTD.",
+                "body": "<p>LA Comedy LIVE is excited to announce that the very iconic winner of Rupaul\u2019s Drag Race All Stars Season 2, Alaska 5000, will be bringing her anticipated performance to Singapore on Aug 27, 2019 at Shine Auditorium!\n</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Don\u2019t miss this show as the comedy queen Alaska, brings us her chart-topping hits and witty banter.</span><br></p><p>ALL SHOW INFORMATION:<br><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><a href=\"http://www.la-comedylive.com/alaska\" target=\"_blank\">la-comedylive.com/alaska</a></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nTICKETS:</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">VIP Meet and Greet: S$208*\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">Standard: S$138*, S$118* &amp; S$98*\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n*Excluding SISTIC Booking Fee\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\nVIP Meet and Greet includes:\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">- Best Seat in the house\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">- Meet and Greet &amp; Photo Opportunity with Alaska.\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">- Exclusive VIP Laminate &amp; Lanyard\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">- Poster </span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\nTICKET LINK: </span><a href=\"https://www.sistic.com.sg/events/calaska0819\">https://www.sistic.com.sg/events/calaska0819</a></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><br></span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n</span></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">\n\nRSVP Here:&nbsp;</span><a href=\"https://www.facebook.com/events/2037598193208255/\">https://www.facebook.com/events/2037598193208255/</a></p>",
+                "officialEmail": "",
+                "eventOrganizer": "LA Comedy Live",
+                "ticketed": "Y",
+                "price": "S$98 -$138",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bugis MRT",
+                "officialWebsite": "www.la-comedylive.com/alaska",
+                "singaporeTourismAwards": "N",
+                "description": "RuPaul's Drag Race All Star Season 2 Winner, Alaska 5000, takes the stage this 27 August, 2019 at the Shine Auditorium!",
+                "source": "LA COMEDY LIVE PTE. LTD.",
+                "tags": [
+                    "Nightlife",
+                    "Night",
+                    "One Person",
+                    "Group of People"
+                ],
+                "address": {
+                    "floorNumber": "03",
+                    "postalCode": "189702",
+                    "buildingName": "Shaw Tower",
+                    "block": "",
+                    "streetName": "Shine Auditorium, 100 Beach Rd",
+                    "unitNumber": "01"
+                },
+                "name": "Alaska 5000 - Live in Singapore (R18)",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-05-02T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101c3af88fe50fc421bbd253197267ed70c",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1019ecff9a652cc46c7a5e68e7e7ad77fcb",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-05-02T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "lacomedylive@gmail.com",
+                    "createdBy": "lacomedylive@gmail.com",
+                    "createdDate": "2019-03-04T14:57:49Z",
+                    "updatedDate": "2019-03-04T14:57:49Z"
+                },
+                "uuid": "004c6b80c22a9c74c2fa23983eebec77968",
+                "companyDisplayName": "LA COMEDY LIVE PTE. LTD.",
+                "body": "<p>LA Comedy Live is excited to announce that one of India\u2019s best standup comedian, ATUL KHATRI, will be returning to Singapore on May 2, 2019, at SOTA Concert Hall! </p><p>\n\nKhatri was listed among the top Indian comedian by CNN-IBN and was the main Indian to perform at the Hong Kong International Comedy Festival in Sept. 2014. Additionally, he is the winner of FremantleMedia\u2019s \u201cCEO\u2019s Got Talent\u201d award.\n\nInterestingly, Atul Khatri did not find his passion for comedy until he was in his forties. In 2011, Khatri decided to have a substitute profession after he was encouraged by his wife, Shaguna Khatri. Initially, he wanted to become a bartender and then later a DJ; but did not pursue either field. Khatri started his career as a comedian by posting jokes (as comic relief) on Facebook. </p><p>Many people appreciated his sense of humour and as such, he took a New Year resolution &amp; signed up for an \u2018open mic\u2019. That\u2019s how his career in stand-up comedy all started.\n\nKhatri has done more than 400 comedy drama shows, TV commercial, and Youtube video. He was likewise one of the 3 finalists at the Melbourne International Comedy Festival, in Delhi in 2012.\n\nAtul additionally, performs at The Canvas Laugh Factory, The Comedy Store and with East India Comedy. He also performed in San Francisco for a pledge drive sorted out by American India Foundation.\n</p><p>\nMost recently, he has also been a featured comedian on Netflix\u2019s \u2018Comedians of the World\u2019 series.\n\nAtul\u2019s comedy mostly discusses on subjects like Indian Culture, Bollywood, Masculinity,  Human behavior,  Nationalism, Casteism, Current events,  Indian politics, Political alienation, Racism, Religion, Psychology, Social issues.  \n\nIt\u2019s going to be a night full of laughs!</p><p>GET YOUR TICKETS NOW!</p><p><br></p><p><b><u>\nTICKETS</u>: </b></p><p><b>\nEarly-bird: </b>(Mar 1 - Mar 7)\n</p><p>S$45, S$55* &amp; S$70*</p><p>\n</p><p><b>\nReserved Seating: </b>(Mar 8 onwards)\n</p><p>S$50*, S$60* &amp; S$75*</p><p>\n</p><p>*Excluding SISTIC Booking Fee\n</p><p>-------</p><p>\n\nSubscribe to our Mailing List for breaking show news!\n</p><p><a href=\"http://eepurl.com/Olvxr\">http://eepurl.com/Olvxr</a></p><p>\n</p><p>\n'Like' LA Comedy Live on Facebook\n</p><p><a href=\"http://www.facebook.com/lacomedylive\">http://www.facebook.com/lacomedylive</a></p><p>\n</p><p>\nFollow LA Comedy LIVE on Twitter!\n</p><p><a href=\"https://twitter.com/lacomedylive\">https://twitter.com/lacomedylive</a></p><p>\n</p><p>\nFollow LA Comedy LIVE on Instagram!\n</p><p><a href=\"https://instagram.com/lacomedylive\">https://instagram.com/lacomedylive</a></p><p><br></p><p>ALL SHOW INFO:\n</p><p>\n<a href=\"https://www.la-comedylive.com/atulkhatri\" target=\"_blank\">https://www.la-comedylive.com/atulkhatri</a></p><p><br></p><p>RSVP HERE</p><p><a href=\"https://www.facebook.com/events/246425609642027/\">https://www.facebook.com/events/246425609642027/</a></p><p><br></p>",
+                "officialEmail": "lacomedylive@gmail.com",
+                "eventOrganizer": "LA Comedy Live",
+                "ticketed": "Y",
+                "price": "S$50 - S$75",
+                "contact": {
+                    "primaryContactNo": "+6563240764",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bencoolen & Dhoby Ghaut MRT",
+                "officialWebsite": "",
+                "singaporeTourismAwards": "N",
+                "description": "Atul Khatri will be returning to Singapore on May 2, 2019 at SOTA Concert Hall.",
+                "source": "LA COMEDY LIVE PTE. LTD.",
+                "tags": [
+                    "Nightlife",
+                    "Indoors",
+                    "Night",
+                    "Performances"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "227968",
+                    "buildingName": "SOTA Concert Hall",
+                    "block": "",
+                    "streetName": "1 Zubir Said Dr",
+                    "unitNumber": ""
+                },
+                "name": "Atul Khatri Live Comedy Show in Singapore 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-05-12T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1018926e3cfa4ab4e7a8b34dea718288838",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101ab8a29e48d054da0a7be5398f9d9639f",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-05-12T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "lacomedylive@gmail.com",
+                    "createdBy": "lacomedylive@gmail.com",
+                    "createdDate": "2019-03-22T17:31:28Z",
+                    "updatedDate": "2019-03-22T17:31:28Z"
+                },
+                "uuid": "004fc476794de3f4f80a521e96558853c81",
+                "companyDisplayName": "LA COMEDY LIVE PTE. LTD.",
+                "body": "<p>LA Comedy LIVE is thrilled to announce RuPaul\u2019s Drag Race Miss Congeniality and All Stars Season 2 Finalist, Katya Zamolodchikova is making her debut in Singapore with her brand new show, \u201cHelp Me I\u2019m Dying\u201d on May 12, 2019, at Shine Auditorium! </p><p>\n\nThe hilarious queen is best known for her incredibly funny personas, characters, and appearances on various entertaining web series. Guaranteed to be a full on riot, this show is a must watch! </p><p>\n\nTickets go on sale at 10am on Mar 25, 2019, via the official ticketing agent SISTIC, at www.sistic.com.sg and via the SISTIC Hotline (65) 6348-5555 and at all SISTIC Authorised Agents.\n</p><p>\nALL SHOW INFO:\nhttps://www.la-comedylive.com/katya&nbsp;</p><p>\n\n</p><p>TICKETS:\n</p><p><b>VIP Meet and Greet: </b>S$248*\n</p><p><b>Standard:</b> S$148*, S$108* &amp; S$88*\n</p><p>\n*Excluding SISTIC Booking Fee\n</p><p>\nVIP Meet and Greet include:\n</p><p>- 1 x best seat in the house.\n</p><p>- Meet and Greet and Photo Opportunity with Katya.\n</p><p>- Exclusive VIP laminate &amp; lanyard.\n</p><p>- Poster. </p><p><br></p><p>\n\nSubscribe to our Mailing List for breaking show news!\n</p><p><a href=\"http://eepurl.com/Olvxr\">http://eepurl.com/Olvxr</a></p><p>\n</p><p>\n'Like' LA Comedy Live on Facebook\n</p><p><a href=\"http://www.facebook.com/lacomedylive\">http://www.facebook.com/lacomedylive</a></p><p>\n</p><p>\nFollow LA Comedy LIVE on Twitter!\n</p><p><a href=\"https://twitter.com/lacomedylive\">https://twitter.com/lacomedylive</a></p><p>\n</p><p>\nFollow LA Comedy LIVE on Instagram!\n</p><p><a href=\"https://instagram.com/lacomedylive\">https://instagram.com/lacomedylive</a></p><p><br></p>",
+                "officialEmail": "",
+                "eventOrganizer": "LA Comedy Live",
+                "ticketed": "Y",
+                "price": "$88 - $148",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bugis MRT",
+                "officialWebsite": "https://www.la-comedylive.com/katya",
+                "singaporeTourismAwards": "N",
+                "description": "Katya Zamolodchikova debuts in Singapore with her brand new comedy show \u201cHelp Me I\u2019m Dying\u201d on May 12, 2019, at Shine Auditorium!",
+                "source": "LA COMEDY LIVE PTE. LTD.",
+                "tags": [
+                    "Nightlife",
+                    "Night",
+                    "One Person",
+                    "Performances"
+                ],
+                "address": {
+                    "floorNumber": "03",
+                    "postalCode": "189702",
+                    "buildingName": "Shaw Tower",
+                    "block": "",
+                    "streetName": "100 Beach Rd, Shaw Tower",
+                    "unitNumber": "01"
+                },
+                "name": "Katya Live Comedy Show in Singapore 2019 (R18)",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-03-16T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10140df75d896e4465fb033fa8911dae2d3",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1013dcd5f1fd630439489fd98c065fd173e",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-04-21T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "rachael.edward@kidzania.com.sg",
+                    "createdBy": "rachael.edward@kidzania.com.sg",
+                    "createdDate": "2019-02-20T10:12:49Z",
+                    "updatedDate": "2019-02-20T10:12:49Z"
+                },
+                "uuid": "0044868c30842374acb81e6d563c45cc411",
+                "companyDisplayName": "KidZania Singapore",
+                "body": "<p>Come explore Singapore\u2019s colourful heritage and take a walk to the past at KidZania Singapore!\n \n From 16 March onwards, families can enjoy and learn about Singapore\u2019s progress and achievements as part of its inaugural KidZ &amp; Heritage event. Take part in activities and programmes that shine a spotlight on Singapore\u2019s founding and development.<br></p>",
+                "officialEmail": "share@kidzania.com.sg",
+                "eventOrganizer": "KidZania Singapore",
+                "ticketed": "Y",
+                "price": "S$25 - S$62",
+                "contact": {
+                    "primaryContactNo": "+6566536888",
+                    "secondaryContactNo": "+6518006536888",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Habourfront MRT",
+                "officialWebsite": "www.kidzania.com.sg",
+                "singaporeTourismAwards": "N",
+                "description": "Re-live the colourful heritage of Singapore",
+                "source": "RAKAN RIANG PTE. LTD.",
+                "tags": [
+                    "Families",
+                    "Attractions",
+                    "Kids"
+                ],
+                "address": {
+                    "floorNumber": "01",
+                    "postalCode": "098008",
+                    "buildingName": "Palawan Kidz City",
+                    "block": "31",
+                    "streetName": "Beach View",
+                    "unitNumber": "01/02"
+                },
+                "name": "KidZ & Heritage",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Attractions"
+            },
+            {
+                "startDate": "2019-12-01T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10197ea4644e0274f2890e9d2e9d05c4269",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "10118fce6246ac34f1e84a33e5ac1c6ec0b",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2020-01-31T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T12:13:17Z",
+                    "updatedDate": "2019-01-24T12:13:17Z"
+                },
+                "uuid": "004ee0dad4c82304030b4a7f698ccfc7356",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p>This exhibition showcases the work of leading Southeast Asian modernist Latiff Mohidin, who was born in Malaysia and began his artistic practice in Singapore. Focusing on key paintings and works on paper from his time in Berlin (1961\u20131964) and iconic <i>Pago Pago</i> series (1964\u20131968), it situates Mohidin\u2019s practice within Centre Pompidou\u2019s permanent galleries. \n#11;</p><p>First presented at Centre Pompidou, Paris in February 2018, <i>Latiff Mohidin: Pago Pago</i> was the second co-curated exhibition by Centre Pompidou and National Gallery Singapore, the first being <i>Reframing Modernism</i> in 2016. </p><p>#11;It was Centre Pompidou\u2019s first focused exhibition on a Southeast Asian artist and the Gallery\u2019s first travelling show. The exhibition then travelled to ILHAM Gallery, Kuala Lumpur in August 2018.<br></p><p><br></p><p>Curators: Shabbir Hussain Mustafa (National Gallery Singapore) and \nCatherine David (Centre Pompidou)<br></p><p><br></p><p><i>The actual exhibition dates have not been announced and will tentatively be on display from Dec 2019\u2013Jan 2020<br></i><br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "Y",
+                "price": "$20 (General admission) | FREE for Singaporeans and PRs",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "singaporeTourismAwards": "N",
+                "description": "This exhibition showcases the work of leading Southeast Asian modernist Latiff Mohidin, who was born in Malaysia and began his artistic practice in Singapore.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": ""
+                },
+                "name": "LATIFF MOHIDIN: PAGO PAGO (1960-1969)",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "History & Culture"
+            },
+            {
+                "startDate": "2018-11-16T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101215bd88494bc4f45a2c71d324c6c038e",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "10136c29f9bd23b4fc58b479404f0746c4e",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101b045ff763c964862af7c7ebb9938a610",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-04-14T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-14T14:59:53Z",
+                    "updatedDate": "2019-01-14T14:59:53Z"
+                },
+                "uuid": "00483bc78d4114c4db4922a5ddcd591897d",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p>See more through less at the first Minimalism exhibition in Southeast Asia, set across two sites: National Gallery Singapore and ArtScience Museum.\n\n</p><p>Led by National Gallery Singapore, the exhibition features over 150 works that explore the history and legacy of this groundbreaking art movement, which continues to inform a wide range of art forms and practitioners across the world today.</p><p>In presenting the first Minimalism-focused exhibition in Southeast Asia across two leading cultural institutions, visitors can expect a wide range of historical and contemporary works, immersive and site-specific installations, as well as interdisciplinary programmes from artists such as Mark Rothko, Carmen Herrera, Tatsuo Miyajima, Donald Judd, Anish Kapoor, Mary Miss, Olafur Eliasson, Margaret Leng Tan, Ai Weiwei, Mona Hatoum, Kim Lim, Charwei Tsai, Tang Da Wu, Jeremy Sharma and Lee Ufan.<br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "Y",
+                "price": "From $15",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall MRT",
+                "officialWebsite": "www.nationalgallery.sg/exhibitions/minimalism-space-light-object",
+                "singaporeTourismAwards": "N",
+                "description": "See more through less at the first Minimalism exhibition in Southeast Asia, set across two sites: National Gallery Singapore and ArtScience Museum.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions"
+                ],
+                "address": {
+                    "floorNumber": "01",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": "01"
+                },
+                "name": "Minimalism: Space. Light. Object.",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Attractions"
+            },
+            {
+                "startDate": "2019-04-19T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10185a3a0b32b5448fb98aa8086da876018",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1016ba6ebb2d7a14b368aab896421e4db17",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-04-28T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "marketing@invade.co",
+                    "createdBy": "marketing@invade.co",
+                    "createdDate": "2019-03-05T15:57:43Z",
+                    "updatedDate": "2019-03-05T15:57:43Z"
+                },
+                "uuid": "0044045452fa3a343c2a27f531c846c738d",
+                "companyDisplayName": "INVADE INDUSTRY PTE. LTD.",
+                "body": "<p>Shilin Night Market (\u58eb\u6797\u591c\u5e02) is one of the largest and most famous night markets in Taiwan for all things good. This April 2019, we are excited to introduce the Shilin Night Market concept to Singapore for the very first time! Experience a taste of Taiwan with elements of local twist in the north of Singapore! With a wide variety of Taiwanese and Singaporean street delicacies, creative eats, pop up artisan stores, arcade games, and even movie screenings, Shilin Night Market will be the most anticipated pop-up market of the year. So join us now to eat(\u5403), shop(\u901b), play(\u73a9) and have fun(\u6a02)!&nbsp;</p><p>Shilin Night Market (\u58eb\u6797\u591c\u5e02)<br><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">The Grounds@Kranji Carpark B at Singapore Turf Club <br>19-21 April 2019 &amp; 26-28 April 2019 <br>3.00pm - 11.00pm</span></p>",
+                "officialEmail": "hello@invade.co",
+                "eventOrganizer": "Invade",
+                "ticketed": "N",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "+6565562123",
+                    "secondaryContactNo": "+6596973884",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Kranji",
+                "officialWebsite": "invade.co",
+                "singaporeTourismAwards": "N",
+                "description": "Shilin Night Market is one of Taiwan's largest and most famous night markets. And for the first time, Shilin Night Market concept is coming to Singapore!",
+                "source": "INVADE INDUSTRY PTE. LTD.",
+                "tags": [
+                    "Food & Beverages",
+                    "Local Brands",
+                    "Exhibitions",
+                    "Foodie",
+                    "Free admission",
+                    "North",
+                    "Shopping",
+                    "Families"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "738078",
+                    "buildingName": "The Grounds@Kranji",
+                    "block": "",
+                    "streetName": "1 Turf Club Ave",
+                    "unitNumber": ""
+                },
+                "name": "Shilin Night Market ",
+                "location": {
+                    "longitude": 103.760292,
+                    "latitude": 1.423233
+                },
+                "type": "MICE"
+            },
+            {
+                "startDate": "2019-05-25T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10101868f67c7da4c9f8058ecc4836af50c",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1015fd2655cc9294211bcff41ce5a0a27d1",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-05-26T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "esthersoh@hahent.com",
+                    "createdBy": "esthersoh@hahent.com",
+                    "createdDate": "2019-04-09T19:16:15Z",
+                    "updatedDate": "2019-04-09T19:16:15Z"
+                },
+                "uuid": "004d8d875ce62314320a4d557ab4f486cf7",
+                "companyDisplayName": "H.A.H. ENTERTAINMENT PTE. LTD.",
+                "body": "<p>The most eagerly-anticipated K-pop music festival in the region, HallyuPopFest, returns this May for its second edition in Singapore. The best of Korean music and culture will converge at the electrifying K-pop extravaganza on 25 and 26 May 2019 at Singapore Indoor Stadium. Superstars SUPER JUNIOR, will be headlining the festival, along with wildly popular bands such as MONSTA X, NU\u2019EST and WINNER.</p><p>In this year\u2019s edition, a new segment, HallyuTown will also debut. It will function as the main festival square where HallyuPopFest\u2019s much-loved Red Carpet event will be held. HallyuTown will be open to the public, offering a variety of Hallyu-related booths and activities featuring K-Food, K-Beauty and K-Lifestyle, as well as a dedicated Fan Support area for fans to show their love and support for their idols.\n\nEach event day, festival-goers get an all-in-one, day-to-night experience, starting with activities at HallyuTown, Showcase performances by up-and-coming K-pop artistes, the Red Carpet event, Artiste Engagement opportunities and finally our spectacular Evening Concerts featuring our headliner acts. The artiste line-up will boast a total of 15 performing acts including established boyband PENTAGON, top girl groups (G)I-DLE and OH MY GIRL, reggaeton group K.A.R.D, veteran soloist HYOLYN, chart-topping rock band N.FLYING, and talented rapper KANTO, as well as the next generation of K-pop music acts including GWSN, A.C.E, VERIVERY and TREI.</p><p>Each HallyuPopFest ticket gives festival-goers access to two concert events on that day - the afternoon Showcase that runs about 2 hours long, and the 3-hour Evening Concert where headliners will perform individual sets of at least 30 minutes each, making it a \u201cconcert within a concert\u201d. For Category 1, 2 and 3 ticket holders who would like a more personal fan experience, they may opt for the HallyuPass for Artiste Engagement which gives them a once-in-a-lifetime interaction experience with an artiste performing that day. </p><p>\n\nHallyuPopFest will be the only K-pop music festival you'll want to attend this year. #AreYouReady?</p><p>Tickets available at Sportshubtix.&nbsp;</p><p>More information at www.hallyupopfest.com</p><p></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">All information is correct at the time of publishing but subject to change.</span><br></p>",
+                "officialEmail": "",
+                "eventOrganizer": "H.A.H. Entertainment",
+                "ticketed": "Y",
+                "price": "$98 - $288",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "",
+                "officialWebsite": "www.hallyupopfest.com",
+                "singaporeTourismAwards": "N",
+                "description": "The most eagerly-anticipated K-pop music festival in the region, HallyuPopFest (HPF) returns this May for its second edition in Singapore.",
+                "source": "H.A.H. ENTERTAINMENT PTE. LTD.",
+                "tags": [
+                    "Entertainment",
+                    "Music"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "049513",
+                    "buildingName": "",
+                    "block": "",
+                    "streetName": "65 Chulia Street #46-00",
+                    "unitNumber": ""
+                },
+                "name": "HallyuPopFest 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-04-27T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10127d42dac3f144edebdca7f4579317fe6",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101194135f3285d486b8ce5cde38ca5b569",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-10-27T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T11:07:41Z",
+                    "updatedDate": "2019-01-24T11:07:41Z"
+                },
+                "uuid": "00474991649496d4b2f8eb926ca54da8b1a",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p>Singapore\u2019s representative at the 56th Venice Biennale in 2015, artist Charles Lim will present <i>Proclamation Garden</i> (2019), the third work in the <i>Ng Teng Fong Roof Garden Commission series</i>. For the first time, the landscaping of the Gallery\u2019s roof garden will be completely transformed by an artistic intervention, displaying not only a greater bio-diversity of plant material but also delivering a knowledge-based inquiry into Singapore\u2019s history of land reclamation, via narratives generated by plants found on reclaimed areas from Changi to Tuas.</p><p><br></p><p>Curator: Adele Tan<br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "N",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "singaporeTourismAwards": "N",
+                "description": "Singapore\u2019s representative at the 56th Venice Biennale in 2015, artist Charles Lim will present Proclamation Garden (2019), the third work in the Ng Teng Fong Roof Garden Commission series.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Exhibitions",
+                    "Museums",
+                    "Parks and Gardens"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": ""
+                },
+                "name": "NG TENG FONG ROOF GARDEN COMMISSION | CHARLES LIM: PROCLAMATION GARDEN",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "startDate": "2019-07-05T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1010758db1ed272420a8a3129dd3c0ce11d",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101dfc930d4fc334226a1ed5041c7df0f32",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-07-21T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "alloysiuslee@sistic.com.sg",
+                    "createdBy": "alloysiuslee@sistic.com.sg",
+                    "createdDate": "2019-04-10T14:59:03Z",
+                    "updatedDate": "2019-04-10T14:59:03Z"
+                },
+                "uuid": "004c5bc7265e921413f9667de655a3db0c2",
+                "companyDisplayName": "SISTIC.COM PTE LTD",
+                "body": "<p>Cirque du Soleil comes to Singapore with its newest creation under the Big Top , KURIOS \u2013 Cabinet of Curiosities! Presented in the intimate setting of the signature Big Top, KURIOS \u2018is not to be missed on any account\u2019 - The Chicago Tribune.</p><p><br></p>",
+                "officialEmail": "",
+                "eventOrganizer": "Cirque du Soleil Asia-Pacific Pte. Ltd.",
+                "ticketed": "Y",
+                "price": "From S$85 to S$320",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bayfront",
+                "officialWebsite": "http://bit.ly/ckurios0819",
+                "singaporeTourismAwards": "N",
+                "description": "",
+                "source": "SISTIC.COM PTE LTD",
+                "tags": [
+                    "Entertainment"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "018956",
+                    "buildingName": "Under the Big Top, beside Marina Bay Sands",
+                    "block": "",
+                    "streetName": "10 Bayfront Avenue",
+                    "unitNumber": ""
+                },
+                "name": "KURIOS - Cabinet of Curiosities by Cirque du Soleil",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-08-01T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1013061e16adefc4318a05954652ef6a6c7",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101c2f364459dfc4703a316c03be4bd486b",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2021-08-01T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T11:56:23Z",
+                    "updatedDate": "2019-01-24T11:56:23Z"
+                },
+                "uuid": "0041ad5b03b22e3407691f5b423dd4abab3",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p>The City Hall, formerly known as Municipal Building, has had a long and colourful history since its completion in 1929. The building was constructed to house the Municipal Council and its various departments, and later occupied by Japanese authorities during World War II, as well as post-independence government and ministry offices. Today, the City Hall forms one wing of National Gallery Singapore. \n\n</p><p>In <i>City Hall: A Place for the People</i>, audiences can look forward to an immersive multimedia experience that combines art with stories inspired by key events that took place within the grand City Hall Chamber. The exhibition runs from August 2019 through to August 2021, as part of the Singapore Bicentennial commemoration.</p><p><br></p><p>Curator: Suenne Megan Tan<br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "N",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "singaporeTourismAwards": "N",
+                "description": "Look forward to an immersive multimedia experience that combines art with stories inspired by key events that took place within the grand City Hall Chamber.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": ""
+                },
+                "name": "CITY HALL: A PLACE FOR THE PEOPLE (working title)",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "History & Culture"
+            },
+            {
+                "startDate": "2019-07-21T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10145627ed0d93247bfac6189b179523900",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "10137ced5a3b37c4471ab31f4443b7bbbac",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-09-01T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "katie@baseentertainment.com.sg",
+                    "createdBy": "katie@baseentertainment.com.sg",
+                    "createdDate": "2019-03-26T10:28:07Z",
+                    "updatedDate": "2019-03-26T10:28:07Z"
+                },
+                "uuid": "00493a15e6c1a8c4449bfb046c1f77de51b",
+                "companyDisplayName": "BASE ENTERTAINMENT MARINA BAY SUB PTE. LTD.",
+                "body": "<p>From the producer of The Lion King, the beloved story of Aladdin comes to life in this spectacular new musical. \n\nBreathtaking sets, mind-blowing special effects, over 300 lavish costumes and a fabulous cast bring the magic of Disney\u2019s Aladdin to life on stage.\n\nFeaturing all the songs from the classic Academy award winning film, including \u201cFriend like Me\u201d, \u201cA Whole New World\u201d and \u201cArabian Nights\u201d, prepare to experience the unmissable theatrical magic that is Aladdin.</p><p>Aladdin opens for its only stop in Asia in Singapore on 21 July at the Sands Theatre, Marina Bay Sands.&nbsp;</p>",
+                "officialEmail": "enquiries@baseentertainment.com.sg",
+                "eventOrganizer": "Base Entertainment Asia",
+                "ticketed": "Y",
+                "price": "$68 - $228",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bayfront",
+                "officialWebsite": "www.baseentertainment.com.sg",
+                "singaporeTourismAwards": "N",
+                "description": "The Hit Broadway Musical",
+                "source": "BASE ENTERTAINMENT MARINA BAY SUB PTE. LTD.",
+                "tags": [
+                    "Event Organisers",
+                    "Nightlife",
+                    "Incentives",
+                    "Musicals",
+                    "Group of People",
+                    "Families",
+                    "Marina Bay",
+                    "Theatres"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "018956",
+                    "buildingName": "Sands Theatre, Marina Bay Sands",
+                    "block": "",
+                    "streetName": "Bayfront Avenue",
+                    "unitNumber": ""
+                },
+                "name": "Aladdin",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "startDate": "2019-06-14T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10147ca6750ee7b436b910b9091e19fcab6",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "10197cf8149547c4eaa8bf5900157617c41",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-09-15T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T12:17:12Z",
+                    "updatedDate": "2019-01-24T12:17:12Z"
+                },
+                "uuid": "0044f009b8455c34c0186e9e7fca93a1759",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p><i>Awakenings: Art in Society in Asia 1960s-1990s</i> is a large-scale exhibition of modern and contemporary Asian art that examines how artists radically sought experimentation and change in art and society during this turbulent period. Co-curated by National Gallery Singapore, National Museum of Modern and Contemporary Art, Korea, and The National Museum of Modern Art, Tokyo, with the support of the Japan Foundation Asia Centre, this exhibition features around 150 key works by leading artists from 12 Asian countries. Awakenings traces significant moments across the region when artists provoked new ways of thinking about and making art, critically engaging with major events such as the Cold War, the Vietnam War, independence and democratic movements, and globalisation.</p><p><br></p><p>Curators: Seng Yu Jin, Adele Tan, Charmaine Toh, Cheng Jiayun<br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "Y",
+                "price": "$20 (General admission) | FREE for Singaporeans and PRs",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "singaporeTourismAwards": "N",
+                "description": "\"Awakenings: Art in Society in Asia 1960s-1990s\" is a large-scale exhibition of modern and contemporary Asian art that examines how artists radically sought experimentation and change in art and society during this turbulent period.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": ""
+                },
+                "name": "AWAKENINGS: ART IN SOCIETY IN ASIA 1960s TO 1990s ",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "History & Culture"
+            },
+            {
+                "startDate": "2019-05-25T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101d1cf881f9cea4c7bb23362c67ac38904",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101130b224266a4415c8d87c752c52ef8e4",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "endDate": "2019-12-30T08:00:00Z",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T12:18:00Z",
+                    "updatedDate": "2019-01-24T12:18:00Z"
+                },
+                "uuid": "00426e809d8418d4b83815cda798eea879b",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "body": "<p>Building onto the success of the first edition, Gallery Children\u2019s Biennale 2019 will take on the theme of \u201cEmbrace\u201d, with a wish to distill the spirit of inclusiveness and signal the genuine welcoming of children and families to take part in the promise of endless possibilities offered in art.  The second edition, which runs from 25 May until 31 December, will feature interactive, hands-on and multimedia artworks created by Singaporean and Southeast Asian artists.\n\n</p><p>The Gallery Children\u2019s Biennale aims to inspire the imagination of young minds with artistic experiences that transform a child\u2019s understanding of the world around them.  It also aims to increase the level of art and cultural appreciation amongst the people in Singapore, making the Gallery\u2019s content accessible to the public beyond niche art experiences.\n\n</p><p>The first edition of the Gallery Children\u2019s Biennale \u2013 \u201cDreams and Stories\u201d was held in 2017 and it successfully attracted close to 300,000 visitors. It also garnered international interest that an adapted version is currently presented at Staatliche Kunstsammlungen Dresden (SKD), Germany from 22 Sep 2018 to 24 Feb 2019</p><p><br></p><p>Festival Director: Suenne Megan Tan<br></p>",
+                "officialEmail": "info@nationalgallery.sg",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "N",
+                "price": "",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "singaporeTourismAwards": "N",
+                "description": "Gallery Children\u2019s Biennale 2019 will take on the theme of \u201cEmbrace\u201d, with a wish to distill the spirit of inclusiveness and signal the genuine welcoming of children and families to take part in the promise of endless possibilities offered in art.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "tags": [
+                    "Entertainment",
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums"
+                ],
+                "address": {
+                    "floorNumber": "",
+                    "postalCode": "178957",
+                    "buildingName": "National Gallery Singapore",
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "unitNumber": ""
+                },
+                "name": "GALLERY CHILDREN\u2019S BIENNALE 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            }
+        ],
+        "nextToken": "MNXW2LTTORRC45DJNAXGG33SMUXG233EMVWC4RLWMVXHIU3FMFZGG2CSMVZXK3DUEU3UGJJXIMZDGJJXIMSTOQZSGASTOQZFG5BTEMBFG5BSKN2DOR4XAZJFGNCCKN2DEU3UG23FPF3W64TEEUZUI43JNZTWC4DPOJSSKN2DEU3UG43POJ2EE6JFGNCCKN2DEU3UG43POJ2E64TEMVZCKM2EEU3UGJJXINSGC5DBONXXK4TDMUSTGRBFG5BSKN2DOVYGIYLUMVSEE6JFGNCCKN2DEU3UG43UMFZHIRDBORSSKM2EEU3UGJJXINSW4ZCEMF2GKJJTIQSTOQZFG5BWC3DUKVZWCZ3FIJ4UC4DQEUZUIJJXIMSTOQ3JONIHE2LWMF2GKJJTIRTGC3DTMUSTOQZFG5BW64THMFXGS43BORUW63RFGNCCKN2DEU3UG5LTMVZECY3DMVZXGVDZOBSSKM2EIRCVMRKMJ5IEKURFG5BSKN2DN5ZGSZ3JNYSTGRBFG5BSKN2DNFZUK6DQNFZGKZBFGNCCKN2DEU3UG3DBNZTXKYLHMUSTGRDFNYSTOQZFG5BQ===="
+    },
+    "ATTRACTIONS": {
+        "status": {
+            "code": 200,
+            "message": "OK",
+            "errorDetail": ""
+        },
+        "data": [
+            {
+                "body": "<p>Come explore Singapore\u2019s colourful heritage and take a walk to the past at KidZania Singapore!\n \n From 16 March onwards, families can enjoy and learn about Singapore\u2019s progress and achievements as part of its inaugural KidZ &amp; Heritage event. Take part in activities and programmes that shine a spotlight on Singapore\u2019s founding and development.<br></p>",
+                "contact": {
+                    "primaryContactNo": "+6566536888",
+                    "secondaryContactNo": "+6518006536888",
+                    "otherContactNo": ""
+                },
+                "uuid": "0044868c30842374acb81e6d563c45cc411",
+                "companyDisplayName": "KidZania Singapore",
+                "metadata": {
+                    "createdBy": "rachael.edward@kidzania.com.sg",
+                    "createdDate": "2019-02-20T10:12:49Z",
+                    "updatedBy": "rachael.edward@kidzania.com.sg",
+                    "updatedDate": "2019-02-20T10:12:49Z"
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "startDate": "2019-03-16T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10140df75d896e4465fb033fa8911dae2d3",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1013dcd5f1fd630439489fd98c065fd173e",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "endDate": "2019-04-21T08:00:00Z",
+                "categoryDescription": "Events",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "KidZania Singapore",
+                "price": "S$25 - S$62",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Habourfront MRT",
+                "officialWebsite": "www.kidzania.com.sg",
+                "officialEmail": "share@kidzania.com.sg",
+                "tags": [
+                    "Families",
+                    "Attractions",
+                    "Kids"
+                ],
+                "description": "Re-live the colourful heritage of Singapore",
+                "source": "RAKAN RIANG PTE. LTD.",
+                "address": {
+                    "block": "31",
+                    "streetName": "Beach View",
+                    "floorNumber": "01",
+                    "unitNumber": "01/02",
+                    "buildingName": "Palawan Kidz City",
+                    "postalCode": "098008"
+                },
+                "name": "KidZ & Heritage",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Attractions"
+            },
+            {
+                "body": "<p>Wu Guanzhong (1919-2010) is one of the most significant artists of 20th century China. His distinctive style fuses Western and Chinese art traditions, and set a new direction for modern Chinese art. A prolific painter and writer, his works paved the way for younger generations of artists and continue to inspire many to this day.\n\n \n\n</p><p>Wu Guanzhong: Expressions of Pen &amp; Palette invites you to step inside the artist's expansive world of painting and literature. It explores for the first time the intimate relationship between Wu's words and paintings through an intimate selection of works from the National Collection and major private collections.<br></p>",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "0045e7df0c304ee4992ba71a4e0237efa75",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "metadata": {
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-14T12:24:34Z",
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "updatedDate": "2019-01-14T12:24:34Z"
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "startDate": "2018-08-31T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "1013e57dc6173b341a79591557095e55d83",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1019f1a2f1b2fe64572877e713252fb5861",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "endDate": "2019-09-29T08:00:00Z",
+                "categoryDescription": "Events",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "National Gallery Singapore",
+                "price": "General Admission | Free for Locals & PRs, $20 for Non-Singaporeans",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "CIty Hall",
+                "officialWebsite": "www.nationalgallery.sg/wuguanzhong",
+                "officialEmail": "info@nationalgallery.sg",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums",
+                    "Attractions"
+                ],
+                "description": "Wu Guanzhong (1919-2010) is one of the most significant artists of 20th century China. His distinctive style fuses Western and Chinese art traditions, and set a new direction for modern Chinese art. A prolific painter and writer, his works paved the way for younger generations of artists and continue to inspire many to this day.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "address": {
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "National Gallery Singapore",
+                    "postalCode": "178957"
+                },
+                "name": "Wu Guanzhong: Expressions of Pen & Palette",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "body": "<p>Lim Cheng Hoe (1912\u20131979) was the leading watercolour artist of his generation and one of the founders of the Singapore Watercolour Society. Largely self-taught, he studied painting under the then-art inspector of schools, Richard Walker, and honed his skills in the 1950s and 1970s by practicing and interacting with fellow artists during outdoor painting sessions.\n\n \n\n</p><p>Beginning with the early days of his practice in the 1930s, this exhibition features over 60 artworks, sketches and archival materials that highlight Lim\u2019s mastery of outdoor watercolour landscape painting.<br></p>",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "0047d030bf4a33b474c8e26fd01eccf8cea",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "metadata": {
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-14T15:11:32Z",
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "updatedDate": "2019-01-14T15:11:32Z"
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "startDate": "2018-08-02T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "10183ee004b17c5414fbfd0b45d55b73cd3",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101311b81f9bc55498d8408eaba0e84ecd9",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101207d6d6f3dff4dee9dbb3c02dc9a6c90",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "endDate": "2019-06-09T08:00:00Z",
+                "categoryDescription": "Events",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "National Gallery Singapore",
+                "price": "General admission | Free for locals and PRs, $20 for Non-Singaporeans",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg/limchenghoe",
+                "officialEmail": "info@nationalgallery.sg",
+                "tags": [
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums",
+                    "Attractions"
+                ],
+                "description": "Lim Cheng Hoe (1912\u20131979) was the leading watercolour artist of his generation and one of the founders of the Singapore Watercolour Society. Largely self-taught, he studied painting under the then-art inspector of schools, Richard Walker, and honed his skills in the 1950s and 1970s by practicing and interacting with fellow artists during outdoor painting sessions.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "address": {
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "National Gallery Singapore",
+                    "postalCode": "178957"
+                },
+                "name": "Lim Cheng Hoe: Painting Singapore",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "body": "<p>Building onto the success of the first edition, Gallery Children\u2019s Biennale 2019 will take on the theme of \u201cEmbrace\u201d, with a wish to distill the spirit of inclusiveness and signal the genuine welcoming of children and families to take part in the promise of endless possibilities offered in art.  The second edition, which runs from 25 May until 31 December, will feature interactive, hands-on and multimedia artworks created by Singaporean and Southeast Asian artists.\n\n</p><p>The Gallery Children\u2019s Biennale aims to inspire the imagination of young minds with artistic experiences that transform a child\u2019s understanding of the world around them.  It also aims to increase the level of art and cultural appreciation amongst the people in Singapore, making the Gallery\u2019s content accessible to the public beyond niche art experiences.\n\n</p><p>The first edition of the Gallery Children\u2019s Biennale \u2013 \u201cDreams and Stories\u201d was held in 2017 and it successfully attracted close to 300,000 visitors. It also garnered international interest that an adapted version is currently presented at Staatliche Kunstsammlungen Dresden (SKD), Germany from 22 Sep 2018 to 24 Feb 2019</p><p><br></p><p>Festival Director: Suenne Megan Tan<br></p>",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "00426e809d8418d4b83815cda798eea879b",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "metadata": {
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T12:18:00Z",
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "updatedDate": "2019-01-24T12:18:00Z"
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "startDate": "2019-05-25T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101d1cf881f9cea4c7bb23362c67ac38904",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "101130b224266a4415c8d87c752c52ef8e4",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "endDate": "2019-12-30T08:00:00Z",
+                "categoryDescription": "Events",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "National Gallery Singapore",
+                "price": "",
+                "ticketed": "N",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "officialEmail": "info@nationalgallery.sg",
+                "tags": [
+                    "Entertainment",
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums"
+                ],
+                "description": "Gallery Children\u2019s Biennale 2019 will take on the theme of \u201cEmbrace\u201d, with a wish to distill the spirit of inclusiveness and signal the genuine welcoming of children and families to take part in the promise of endless possibilities offered in art.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "address": {
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "National Gallery Singapore",
+                    "postalCode": "178957"
+                },
+                "name": "GALLERY CHILDREN\u2019S BIENNALE 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "body": "<p>Singapore Cocktail Festival returns from 10 to 18 May 2019, with passes to the Festival Village at the Empress Lawn available at <a href=\"https://www.singaporecocktailfestival.com\">https://www.singaporecocktailfestival.com</a> or connect with us on FB and Instagram at @SGCocktailFest. </p><p><u><b><br></b></u></p><p><u><b>2019 Edition</b></u></p><p><br></p><p><b>COCKTAIL PASSPORT - EVENTS AROUND THE CITY (10 TO 18 MAY 2019)<br></b></p><p>We gather a hit-list of 50 cocktail bars in Singapore - each presenting exclusive Festival cocktails at promotional prices. In addition, expect guest shifts, pop-up parties, special events, flight tastings and showcases, exclusive to the Festival. </p><p>Get promotions through the Cocktail Passport - now also available on mobile via the Sluggr app during the Festival period.<b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>FESTIVAL VILLAGE @ EMPRESS LAWN (10 TO 12 MAY 2019)<br></b></p><p><b>Guest Bartenders\n</b></p><p>Showings from the Asia\u2019s 50 Best Bars list expected in the Festival Village include Singapore\u2019s very own Tippling Club (No. 7 in 2018), Jigger &amp; Pony (No. 40 in 2018), Smalls from Bangkok, Thailand (No. 29 in 2018) and Keepers from Seoul, Korea (No. 47 in 2018) to present you acclaimed, award-winning cocktails.\n\n</p><p><b>Best of SG Bars\n</b></p><p>Your favourite haunts, all under one roof \u2013 Expect to meet Singapore\u2019s best shakers and makers at Festival Village - IB HQ, Neon Pigeon, Origin Bar &amp; Grill, Mitzo, Tess Bar &amp; Kitchen, CIN CIN and new contenders \u2013 Brass Lion Distillery and The Monarchy Cocktail Bar and more!\n\n</p><p><b>Spirit Brand Experiences\n</b></p><p>Leading brands such as Four Pillars Gin, Monkey 47, Hendrick\u2019s Gin and Sabatini Gin among many others will return with immersive cocktail pop-up experiences.\n\n</p><p><b>Artisanal Tasting Room + Food Street\n</b></p><p>At the Artisanal Spirits Tasting Room, sip on unique spirits such as Skin Gin, Apoteca Gin, Black Cow, Codigo 1530, Maracatu Cachaca and more. Enjoy delicious bites at the Food Street, featuring establishments such as Como Cuisine.\n\n</p><p><b>Barstylez International Bartender Championship\n</b></p><p>A new addition to the Festival Village is the adrenaline-fuelled 3-day live competition, where over 60 bartenders from more than 25 countries compete in two categories \u2013 \u2018Flairing\u2019 (International) and \u2018Cocktail\u2019 (Asia).\n\n</p><p><b>Music &amp; Entertainment\n</b></p><p>Shake your booty to R&amp;B and Soul (Friday, 10 May), Retro (Saturday, 11 May) and Afrobeat (Sunday, 12 May) - from the likes of Brendon P (Doomph), Tirso (Matteblacc), Joshua P, Olle Des and Ya5th of retro club Nineteen80 as well as veteran selectors Ramesh K and Anand (Beatroot) to take you on a world music journey. \n</p><p>Visit https://www.singaporecocktailfestival.com for updates and news!<br></p>",
+                "contact": {
+                    "primaryContactNo": "+6562214680",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "004c4e8e12d49b842b6854739d591d39005",
+                "companyDisplayName": "The Events Artery Pte Ltd",
+                "metadata": {
+                    "createdBy": "shamima@eventsartery.com",
+                    "createdDate": "2019-03-07T17:32:50Z",
+                    "updatedBy": "shamima@eventsartery.com",
+                    "updatedDate": "2019-03-07T17:32:50Z"
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "startDate": "2019-05-10T08:00:00Z",
+                "thumbnails": [
+                    {
+                        "uuid": "101a21b7187abb24553a0fb2d10d7aa950a",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1019552678d71c34bf3910a859c7e6866c2",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "1012904c6636ae445069e7f38b95db55457",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101bbe7253a704f4d78a7e48402dc3457b4",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101eca0d53c2b9845d58d6075b5e0615cd8",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101aaed0c053f004ba8b33e4c8183642162",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "endDate": "2019-05-18T08:00:00Z",
+                "categoryDescription": "Events",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "Curated Asia",
+                "price": "Starts at $35 with welcome drink",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "https://www.singaporecocktailfestival.com",
+                "officialEmail": "hello@singaporecocktailfestival.com",
+                "tags": [
+                    "Full-Day",
+                    "Incentives",
+                    "Entertainment",
+                    "Networking",
+                    "Night",
+                    "Civic District",
+                    "Central",
+                    "Outdoors",
+                    "Cityscape",
+                    "Nightlife",
+                    "Unique Dining",
+                    "Culture Shaper",
+                    "Travel Events",
+                    "Foodie",
+                    "Budget",
+                    "Group of People",
+                    "Socialisers",
+                    "Social Events",
+                    "International Brands",
+                    "Unique Venues",
+                    "Attractions",
+                    "Fine Dining",
+                    "Casual Dining",
+                    "3-Days",
+                    "Sunset",
+                    "Local Brands",
+                    "Music",
+                    "Landmarks",
+                    "Adults",
+                    "Lifestyles",
+                    "Two People",
+                    "Parks and Gardens"
+                ],
+                "description": "Asia's Largest Celebration of Cocktails!",
+                "source": "THE EVENTS ARTERY PTE. LTD.",
+                "address": {
+                    "block": "10",
+                    "streetName": "Empress Place",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "Empress Lawn",
+                    "postalCode": "179555"
+                },
+                "name": "SG Cocktail Festival",
+                "location": {
+                    "longitude": 103.852036,
+                    "latitude": 1.287982
+                },
+                "type": "Food & Beverages"
+            }
+        ],
+        "nextToken": ""
+    },
+    "ENTERTAINMENT": {
+        "status": {
+            "code": 200,
+            "message": "OK",
+            "errorDetail": ""
+        },
+        "data": [
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "1015cabae0480f443318b62a6c7b7793f9f",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "101ee768b66927c4068b20a87ed9b987bb6",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-04-03T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>Focusing on a man caught up in a tangled love affair, Florian Zeller\u2019s The Truth is a hard-hitting examination of friendship, suspicion and deceit. In a new version by Christopher Hampton (Les Liaisons Dangereuses), who also delivered new versions of The Father and The Mother, The Truth is a biting new play that discovers what happens when the truth is finally uncovered.\n </p><p>Alice and Michel are having an affair. Michel\u2019s wife, Laurence has been asking him difficult questions. Alice\u2019s husband, Paul, is Michel\u2019s best friend. As deceits intertwine, the two couples find themselves lost in a maze of who-told-who-what, where each loving lie seems more necessary and each confession more indiscreet.  \n\n</p><p>A brilliantly cruel comedy of the hypocrisies which hold society together, Florian Zeller\u2019s The Truth, premiered at the Menier Chocolate Factory, London, in 2016, in association with Theatre Royal Bath Productions. The Truth is \u201ca devious must-see\u201d (The Guardian) you do not want to miss. \n\n\n</p><p>\n</p><p>\"Unbelievably good\" - The Times\n\n\n\n</p><p>\"Dazzling\" - The Observer</p>",
+                "companyDisplayName": "SISTIC.COM PTE LTD",
+                "endDate": "2019-04-20T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "004acc9df143dc94f1a97d7f662e0e873e9",
+                "metadata": {
+                    "updatedBy": "alloysiuslee@sistic.com.sg",
+                    "createdBy": "alloysiuslee@sistic.com.sg",
+                    "createdDate": "2019-04-02T11:29:50Z",
+                    "updatedDate": "2019-04-02T11:29:50Z"
+                },
+                "categoryDescription": "Events",
+                "price": "$45 / $55 / $50 / $60",
+                "eventOrganizer": "Singapore Repertory Theatre",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Fort Canning Station",
+                "officialWebsite": "http://bit.ly/ctruth0419",
+                "officialEmail": "",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Entertainment"
+                ],
+                "description": "",
+                "source": "SISTIC.COM PTE LTD",
+                "address": {
+                    "block": "",
+                    "streetName": "20 Merbau Road, Robertson Quay",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "KC Arts Centre - Home of SRT",
+                    "postalCode": "239035"
+                },
+                "name": "The Truth",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "10190f1d50143114d49b11c3fd8ada1bdc5",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "101f7e6275da89a4aa086a6854b6dfb0f68",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-06-12T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>Over the years, SRT has presented and produced some of the most outstanding Shakespeare productions here in Singapore - from our Shakespeare in the park series, to Sam Mendes\u2019 The Bridge Project.\n \n We are now excited to offer you a brand new way of experiencing theatre: for three nights only, catch a screening of Shakespeare\u2019s biggest hits as produced and performed by the internationally renowned Royal Shakespeare Company (RSC). Each performance is followed by a complimentary sharing by a Shakespeare theatre veteran.</p><p><br></p><p><b>The Merchant of Venice</b></p><p> \n\nBy William Shakespeare\n</p><p> \n\nDirected by award winning&nbsp;Polly Findlay\n</p><p> \n\nWednesday, 12 June, 7.30pm</p><p> \n\nApproximate running time: 2hrs 15mins\n</p><p>In the melting pot of Venice, trade is God. With its ships plying the globe, the city opens its arms to all, as long as they come prepared to do business and there is profit to be made.\n</p><p> \n\nWith the gold flowing all is well, but when a contract between Bassanio and Shylock is broken, simmering racial tensions boil over. A wronged father and despised outsider, Shylock looks to exact the ultimate price for a deal sealed in blood. </p><p><br></p><p><b>\n \n \n \n\n\n\nHamlet\n</b></p><p> \n\nBy William Shakespeare\n</p><p> \n\nDirected by Simon Godwin\n</p><p> \n\nThursday, 13 June, 7.30pm\n</p><p>\nApproximate running time: 3hrs\n</p><p>\nHamlet has the world at his feet. Young, wealthy and living a hedonistic life studying abroad. Then word reaches him that his father is dead.\n</p><p>\nReturning home he finds his world is utterly changed, his certainties smashed and his home a foreign land. Struggling to understand his place in a new world order he faces a stark choice. Submit, or rage against the injustice of his new reality.\n</p><p>\nSimon Godwin (The Two Gentlemen of Verona 2014) directs Paapa Essiedu as Hamlet in Shakespeare\u2019s searing tragedy. As relevant today as when it was written, Hamlet confronts each of us with the mirror of our own mortality in an imperfect world.\n</p><p><br></p><p><b>\n\n\nOthello\n</b></p><p>\nBy William Shakespeare\n</p><p>\nDirected by Iqbal Khan</p><p> Friday, 14 June, 7.30pm\n</p><p>\nApproximate running time: 3hrs\n</p><p>\nOthello is the greatest general of his age. A fearsome warrior, loving husband and revered defender of Venice against its enemies.\n</p><p>\nBut he is also an outsider whose victories have created enemies of his own, men driven by prejudice and jealousy to destroy him. As they plot in the shadows, Othello realises too late that the greatest danger lies not in the hatred of others, but his own fragile and destructive pride.\n</p><p>\nAfter more than a decade working in film and television on projects from Star Wars to Holby City, Hugh Quarshie returns to the RSC to play Shakespeare's Othello. He was last seen with us in Faust and Julius Caesar (1996). Hugh will play opposite Lucian Msamati in the role of Iago, returning to the RSC following his role as Pericles in 2006. The production is directed by Iqbal Khan (Much Ado About Nothing, 2012).</p><p></p>",
+                "companyDisplayName": "SISTIC.COM PTE LTD",
+                "endDate": "2019-06-14T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "00401d2fa80537e46df801aa4f3289e2a00",
+                "metadata": {
+                    "updatedBy": "alloysiuslee@sistic.com.sg",
+                    "createdBy": "alloysiuslee@sistic.com.sg",
+                    "createdDate": "2019-04-10T14:48:47Z",
+                    "updatedDate": "2019-04-10T14:48:47Z"
+                },
+                "categoryDescription": "Events",
+                "price": "25",
+                "eventOrganizer": "Singapore Repertory Theatre",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "",
+                "officialWebsite": "http://bit.ly/crsc0619",
+                "officialEmail": "",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Entertainment"
+                ],
+                "description": "",
+                "source": "SISTIC.COM PTE LTD",
+                "address": {
+                    "block": "",
+                    "streetName": "20 Merbau Road, Robertson Quay",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "KC Arts Centre - Home of SRT",
+                    "postalCode": "239035"
+                },
+                "name": "SRT Presents RSC Live - The Merchant of Venice, Hamlet, Othello",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "1010758db1ed272420a8a3129dd3c0ce11d",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "101dfc930d4fc334226a1ed5041c7df0f32",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-07-05T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>Cirque du Soleil comes to Singapore with its newest creation under the Big Top , KURIOS \u2013 Cabinet of Curiosities! Presented in the intimate setting of the signature Big Top, KURIOS \u2018is not to be missed on any account\u2019 - The Chicago Tribune.</p><p><br></p>",
+                "companyDisplayName": "SISTIC.COM PTE LTD",
+                "endDate": "2019-07-21T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "004c5bc7265e921413f9667de655a3db0c2",
+                "metadata": {
+                    "updatedBy": "Georgina_Koh@stb.gov.sg",
+                    "createdBy": "Georgina_Koh@stb.gov.sg",
+                    "createdDate": "2019-04-11T15:44:07Z",
+                    "updatedDate": "2019-04-11T15:44:07Z"
+                },
+                "categoryDescription": "Events",
+                "price": "From S$85 to S$320",
+                "eventOrganizer": "Cirque du Soleil Asia-Pacific Pte. Ltd.",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bayfront",
+                "officialWebsite": "http://bit.ly/ckurios0819",
+                "officialEmail": "",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Entertainment"
+                ],
+                "description": "",
+                "source": "SISTIC.COM PTE LTD",
+                "address": {
+                    "block": "",
+                    "streetName": "10 Bayfront Avenue",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "Under the Big Top, beside Marina Bay Sands",
+                    "postalCode": "018956"
+                },
+                "name": "KURIOS - Cabinet of Curiosities by Cirque du Soleil",
+                "location": {
+                    "longitude": 103.8563421,
+                    "latitude": 1.282302
+                },
+                "type": "Entertainment"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "1018232973f3edb425496b64835f568f0b1",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "1016be91831a9644da3a723f7fc21f2aa8f",
+                        "libraryUuid": ""
+                    },
+                    {
+                        "url": "",
+                        "uuid": "101279c9377327e4362ace7837e43cb65f2",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-06-08T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>ULTRA Singapore is part of the greater Ultra Worldwide family, producer of 45 events in 20 countries across 5 continents.&nbsp;It is the only edition of the festival in Southeast Asia.&nbsp;\nOn the heels of its sold-out 2015 soft launch, ULTRA Singapore was upgraded to full festival status in 2016.&nbsp;Following a successful festival in 2016 which saw 45 000 attendees,&nbsp;ULTRA Singapore 2017 welcomed over 47,000 attendees from 60 countries to its iconic Marina Bay location&nbsp;on June 10th &amp; 11th.&nbsp;\n40 world class acts performed across Ultra\u2019s triumvirate of the Main, LIVE, and Resistance Stages. Next year, we welcome the fourth edition of ULTRA Singapore, dates and venue to be released. Stay tuned!&nbsp;<br></p>",
+                "companyDisplayName": "ULTRA SINGAPORE PTE. LTD.",
+                "endDate": "2019-06-09T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "00492d521e5c1764731a04fe28a9eb37748",
+                "metadata": {
+                    "updatedBy": "alex@umfsingapore.asia",
+                    "createdBy": "alex@umfsingapore.asia",
+                    "createdDate": "2018-12-12T13:26:02Z",
+                    "updatedDate": "2018-12-12T13:26:02Z"
+                },
+                "categoryDescription": "Events",
+                "price": "",
+                "eventOrganizer": "ULTRA Singapore",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bayfront",
+                "officialWebsite": "http://ultrasingapore.com",
+                "officialEmail": "info@ultrasingapore.com",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Entertainment",
+                    "Music"
+                ],
+                "description": "Ultra Singapore is an outdoor electronic music festival that debuted in 2015 in Singapore as part of Ultra Music Festival's worldwide expansion, which has now spread to twenty countries.",
+                "source": "ULTRA SINGAPORE PTE. LTD.",
+                "address": {
+                    "block": "",
+                    "streetName": "1 Bayfront Avenue",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "",
+                    "postalCode": "018971"
+                },
+                "name": "ULTRA Singapore 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Entertainment"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "10101868f67c7da4c9f8058ecc4836af50c",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "1015fd2655cc9294211bcff41ce5a0a27d1",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-05-25T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>The most eagerly-anticipated K-pop music festival in the region, HallyuPopFest, returns this May for its second edition in Singapore. The best of Korean music and culture will converge at the electrifying K-pop extravaganza on 25 and 26 May 2019 at Singapore Indoor Stadium. Superstars SUPER JUNIOR, will be headlining the festival, along with wildly popular bands such as MONSTA X, NU\u2019EST and WINNER.</p><p>In this year\u2019s edition, a new segment, HallyuTown will also debut. It will function as the main festival square where HallyuPopFest\u2019s much-loved Red Carpet event will be held. HallyuTown will be open to the public, offering a variety of Hallyu-related booths and activities featuring K-Food, K-Beauty and K-Lifestyle, as well as a dedicated Fan Support area for fans to show their love and support for their idols.\n\nEach event day, festival-goers get an all-in-one, day-to-night experience, starting with activities at HallyuTown, Showcase performances by up-and-coming K-pop artistes, the Red Carpet event, Artiste Engagement opportunities and finally our spectacular Evening Concerts featuring our headliner acts. The artiste line-up will boast a total of 15 performing acts including established boyband PENTAGON, top girl groups (G)I-DLE and OH MY GIRL, reggaeton group K.A.R.D, veteran soloist HYOLYN, chart-topping rock band N.FLYING, and talented rapper KANTO, as well as the next generation of K-pop music acts including GWSN, A.C.E, VERIVERY and TREI.</p><p>Each HallyuPopFest ticket gives festival-goers access to two concert events on that day - the afternoon Showcase that runs about 2 hours long, and the 3-hour Evening Concert where headliners will perform individual sets of at least 30 minutes each, making it a \u201cconcert within a concert\u201d. For Category 1, 2 and 3 ticket holders who would like a more personal fan experience, they may opt for the HallyuPass for Artiste Engagement which gives them a once-in-a-lifetime interaction experience with an artiste performing that day. </p><p>\n\nHallyuPopFest will be the only K-pop music festival you'll want to attend this year. #AreYouReady?</p><p>Tickets available at Sportshubtix.&nbsp;</p><p>More information at www.hallyupopfest.com</p><p></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">All information is correct at the time of publishing but subject to change.</span><br></p>",
+                "companyDisplayName": "H.A.H. ENTERTAINMENT PTE. LTD.",
+                "endDate": "2019-05-26T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "004d8d875ce62314320a4d557ab4f486cf7",
+                "metadata": {
+                    "updatedBy": "Georgina_Koh@stb.gov.sg",
+                    "createdBy": "Georgina_Koh@stb.gov.sg",
+                    "createdDate": "2019-04-11T15:48:38Z",
+                    "updatedDate": "2019-04-11T15:48:38Z"
+                },
+                "categoryDescription": "Events",
+                "price": "$98 - $288",
+                "eventOrganizer": "H.A.H. Entertainment",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "",
+                "officialWebsite": "www.hallyupopfest.com",
+                "officialEmail": "",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Entertainment",
+                    "Music"
+                ],
+                "description": "The most eagerly-anticipated K-pop music festival in the region, HallyuPopFest (HPF) returns this May for its second edition in Singapore.",
+                "source": "H.A.H. ENTERTAINMENT PTE. LTD.",
+                "address": {
+                    "block": "",
+                    "streetName": "65 Chulia Street #46-00",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "",
+                    "postalCode": "049513"
+                },
+                "name": "HallyuPopFest 2019",
+                "location": {
+                    "longitude": 103.8467067,
+                    "latitude": 1.285184
+                },
+                "type": "Entertainment"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "101d1cf881f9cea4c7bb23362c67ac38904",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "101130b224266a4415c8d87c752c52ef8e4",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-05-25T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>Building onto the success of the first edition, Gallery Children\u2019s Biennale 2019 will take on the theme of \u201cEmbrace\u201d, with a wish to distill the spirit of inclusiveness and signal the genuine welcoming of children and families to take part in the promise of endless possibilities offered in art.  The second edition, which runs from 25 May until 31 December, will feature interactive, hands-on and multimedia artworks created by Singaporean and Southeast Asian artists.\n\n</p><p>The Gallery Children\u2019s Biennale aims to inspire the imagination of young minds with artistic experiences that transform a child\u2019s understanding of the world around them.  It also aims to increase the level of art and cultural appreciation amongst the people in Singapore, making the Gallery\u2019s content accessible to the public beyond niche art experiences.\n\n</p><p>The first edition of the Gallery Children\u2019s Biennale \u2013 \u201cDreams and Stories\u201d was held in 2017 and it successfully attracted close to 300,000 visitors. It also garnered international interest that an adapted version is currently presented at Staatliche Kunstsammlungen Dresden (SKD), Germany from 22 Sep 2018 to 24 Feb 2019</p><p><br></p><p>Festival Director: Suenne Megan Tan<br></p>",
+                "companyDisplayName": "NATIONAL GALLERY SINGAPORE",
+                "endDate": "2019-12-30T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "+6566909400",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "00426e809d8418d4b83815cda798eea879b",
+                "metadata": {
+                    "updatedBy": "brian.koh@nationalgallery.sg",
+                    "createdBy": "brian.koh@nationalgallery.sg",
+                    "createdDate": "2019-01-24T12:18:00Z",
+                    "updatedDate": "2019-01-24T12:18:00Z"
+                },
+                "categoryDescription": "Events",
+                "price": "",
+                "eventOrganizer": "National Gallery Singapore",
+                "ticketed": "N",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "www.nationalgallery.sg",
+                "officialEmail": "info@nationalgallery.sg",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Entertainment",
+                    "Civic District",
+                    "Exhibitions",
+                    "Museums"
+                ],
+                "description": "Gallery Children\u2019s Biennale 2019 will take on the theme of \u201cEmbrace\u201d, with a wish to distill the spirit of inclusiveness and signal the genuine welcoming of children and families to take part in the promise of endless possibilities offered in art.",
+                "source": "NATIONAL GALLERY SINGAPORE",
+                "address": {
+                    "block": "1",
+                    "streetName": "St Andrew's Road",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "National Gallery Singapore",
+                    "postalCode": "178957"
+                },
+                "name": "GALLERY CHILDREN\u2019S BIENNALE 2019",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "1010c68450439634a52bbedad4be6acbf86",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "1011e3db48d2c4b4c6d9697e66cdb044073",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-05-16T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>As Singapore\u2019s annual pinnacle arts festival, the Singapore International Festival of Arts (SIFA) presents captivating and diverse works across theatre, music, dance, film and visual arts. First launched as the Singapore Festival of Arts in 1977, the festival has gone through several evolutions and inspired generations of arts lovers and practitioners. Today, the highly-anticipated festival is a high-point on Singapore\u2019s arts and cultural calendar.</p><p>\nUnder the helm of Festival Director Gaurav Kripalani from 2018\u20132020, SIFA continues its festival mission to champion the creation and presentation of Singaporean and international works. \n\nFestival House\n \nAt SIFA 2019, The Arts House will once again be transformed into the Festival House. With meaningful engagement opportunities from artists talks, workshops, discussions and the festival bar\u2014House Pour, the Festival House breaks down the walls between artists and audiences to create unique experiences and inspiring artistic encounters.<br></p>",
+                "companyDisplayName": "ARTS HOUSE LTD.",
+                "endDate": "2019-06-02T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "0048d0e81c18be6433eac2bd3426de4699a",
+                "metadata": {
+                    "updatedBy": "elizabethwong@artshouse.sg",
+                    "createdBy": "elizabethwong@artshouse.sg",
+                    "createdDate": "2019-03-29T15:20:04Z",
+                    "updatedDate": "2019-03-29T15:20:04Z"
+                },
+                "categoryDescription": "Events",
+                "price": "",
+                "eventOrganizer": "Arts House Limited",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "",
+                "officialWebsite": "www.sifa.sg",
+                "officialEmail": "sifa@artshouse.sg",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Full-Day",
+                    "Culture Shaper",
+                    "Indoors",
+                    "Entertainment",
+                    "Musicals",
+                    "Music",
+                    "Exhibitions",
+                    "Performances",
+                    "Central",
+                    "Outdoors",
+                    "Singapore International Festival of Arts",
+                    "Theatres"
+                ],
+                "description": "3 exhilarating weeks of artistic adventures at Singapore's pinnacle arts festival",
+                "source": "ARTS HOUSE LTD.",
+                "address": {
+                    "block": "",
+                    "streetName": "Aliwal Arts Centre, 28 Aliwal St",
+                    "floorNumber": "03",
+                    "unitNumber": "05",
+                    "buildingName": "",
+                    "postalCode": "199918"
+                },
+                "name": "Singapore International Festival of Arts 2019 ",
+                "location": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "type": "Arts"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "101a21b7187abb24553a0fb2d10d7aa950a",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "1019552678d71c34bf3910a859c7e6866c2",
+                        "libraryUuid": ""
+                    },
+                    {
+                        "url": "",
+                        "uuid": "1012904c6636ae445069e7f38b95db55457",
+                        "libraryUuid": ""
+                    },
+                    {
+                        "url": "",
+                        "uuid": "101bbe7253a704f4d78a7e48402dc3457b4",
+                        "libraryUuid": ""
+                    },
+                    {
+                        "url": "",
+                        "uuid": "101eca0d53c2b9845d58d6075b5e0615cd8",
+                        "libraryUuid": ""
+                    },
+                    {
+                        "url": "",
+                        "uuid": "101aaed0c053f004ba8b33e4c8183642162",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-05-10T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>Singapore Cocktail Festival returns from 10 to 18 May 2019, with passes to the Festival Village at the Empress Lawn available at <a href=\"https://www.singaporecocktailfestival.com\">https://www.singaporecocktailfestival.com</a> or connect with us on FB and Instagram at @SGCocktailFest. </p><p><u><b><br></b></u></p><p><u><b>2019 Edition</b></u></p><p><br></p><p><b>COCKTAIL PASSPORT - EVENTS AROUND THE CITY (10 TO 18 MAY 2019)<br></b></p><p>We gather a hit-list of 50 cocktail bars in Singapore - each presenting exclusive Festival cocktails at promotional prices. In addition, expect guest shifts, pop-up parties, special events, flight tastings and showcases, exclusive to the Festival. </p><p>Get promotions through the Cocktail Passport - now also available on mobile via the Sluggr app during the Festival period.<b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>FESTIVAL VILLAGE @ EMPRESS LAWN (10 TO 12 MAY 2019)<br></b></p><p><b>Guest Bartenders\n</b></p><p>Showings from the Asia\u2019s 50 Best Bars list expected in the Festival Village include Singapore\u2019s very own Tippling Club (No. 7 in 2018), Jigger &amp; Pony (No. 40 in 2018), Smalls from Bangkok, Thailand (No. 29 in 2018) and Keepers from Seoul, Korea (No. 47 in 2018) to present you acclaimed, award-winning cocktails.\n\n</p><p><b>Best of SG Bars\n</b></p><p>Your favourite haunts, all under one roof \u2013 Expect to meet Singapore\u2019s best shakers and makers at Festival Village - IB HQ, Neon Pigeon, Origin Bar &amp; Grill, Mitzo, Tess Bar &amp; Kitchen, CIN CIN and new contenders \u2013 Brass Lion Distillery and The Monarchy Cocktail Bar and more!\n\n</p><p><b>Spirit Brand Experiences\n</b></p><p>Leading brands such as Four Pillars Gin, Monkey 47, Hendrick\u2019s Gin and Sabatini Gin among many others will return with immersive cocktail pop-up experiences.\n\n</p><p><b>Artisanal Tasting Room + Food Street\n</b></p><p>At the Artisanal Spirits Tasting Room, sip on unique spirits such as Skin Gin, Apoteca Gin, Black Cow, Codigo 1530, Maracatu Cachaca and more. Enjoy delicious bites at the Food Street, featuring establishments such as Como Cuisine.\n\n</p><p><b>Barstylez International Bartender Championship\n</b></p><p>A new addition to the Festival Village is the adrenaline-fuelled 3-day live competition, where over 60 bartenders from more than 25 countries compete in two categories \u2013 \u2018Flairing\u2019 (International) and \u2018Cocktail\u2019 (Asia).\n\n</p><p><b>Music &amp; Entertainment\n</b></p><p>Shake your booty to R&amp;B and Soul (Friday, 10 May), Retro (Saturday, 11 May) and Afrobeat (Sunday, 12 May) - from the likes of Brendon P (Doomph), Tirso (Matteblacc), Joshua P, Olle Des and Ya5th of retro club Nineteen80 as well as veteran selectors Ramesh K and Anand (Beatroot) to take you on a world music journey. \n</p><p>Visit https://www.singaporecocktailfestival.com for updates and news!<br></p>",
+                "companyDisplayName": "The Events Artery Pte Ltd",
+                "endDate": "2019-05-18T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "+6562214680",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "004c4e8e12d49b842b6854739d591d39005",
+                "metadata": {
+                    "updatedBy": "shamima@eventsartery.com",
+                    "createdBy": "shamima@eventsartery.com",
+                    "createdDate": "2019-03-07T17:32:50Z",
+                    "updatedDate": "2019-03-07T17:32:50Z"
+                },
+                "categoryDescription": "Events",
+                "price": "Starts at $35 with welcome drink",
+                "eventOrganizer": "Curated Asia",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "https://www.singaporecocktailfestival.com",
+                "officialEmail": "hello@singaporecocktailfestival.com",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Full-Day",
+                    "Incentives",
+                    "Entertainment",
+                    "Networking",
+                    "Night",
+                    "Civic District",
+                    "Central",
+                    "Outdoors",
+                    "Cityscape",
+                    "Nightlife",
+                    "Unique Dining",
+                    "Culture Shaper",
+                    "Travel Events",
+                    "Foodie",
+                    "Budget",
+                    "Group of People",
+                    "Socialisers",
+                    "Social Events",
+                    "International Brands",
+                    "Unique Venues",
+                    "Attractions",
+                    "Fine Dining",
+                    "Casual Dining",
+                    "3-Days",
+                    "Sunset",
+                    "Local Brands",
+                    "Music",
+                    "Landmarks",
+                    "Adults",
+                    "Lifestyles",
+                    "Two People",
+                    "Parks and Gardens"
+                ],
+                "description": "Asia's Largest Celebration of Cocktails!",
+                "source": "THE EVENTS ARTERY PTE. LTD.",
+                "address": {
+                    "block": "10",
+                    "streetName": "Empress Place",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "Empress Lawn",
+                    "postalCode": "179555"
+                },
+                "name": "SG Cocktail Festival",
+                "location": {
+                    "longitude": 103.852036,
+                    "latitude": 1.287982
+                },
+                "type": "Food & Beverages"
+            },
+            {
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "uuid": "1018926e3cfa4ab4e7a8b34dea718288838",
+                        "libraryUuid": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "",
+                        "uuid": "101ab8a29e48d054da0a7be5398f9d9639f",
+                        "libraryUuid": ""
+                    }
+                ],
+                "startDate": "2019-05-12T08:00:00Z",
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "body": "<p>LA Comedy LIVE is thrilled to announce RuPaul\u2019s Drag Race Miss Congeniality and All Stars Season 2 Finalist, Katya Zamolodchikova is making her debut in Singapore with her brand new show, \u201cHelp Me I\u2019m Dying\u201d on May 12, 2019, at Shine Auditorium! </p><p>\n\nThe hilarious queen is best known for her incredibly funny personas, characters, and appearances on various entertaining web series. Guaranteed to be a full on riot, this show is a must watch! </p><p>\n\nTickets go on sale at 10am on Mar 25, 2019, via the official ticketing agent SISTIC, at www.sistic.com.sg and via the SISTIC Hotline (65) 6348-5555 and at all SISTIC Authorised Agents.\n</p><p>\nALL SHOW INFO:\nhttps://www.la-comedylive.com/katya&nbsp;</p><p>\n\n</p><p>TICKETS:\n</p><p><b>VIP Meet and Greet: </b>S$248*\n</p><p><b>Standard:</b> S$148*, S$108* &amp; S$88*\n</p><p>\n*Excluding SISTIC Booking Fee\n</p><p>\nVIP Meet and Greet include:\n</p><p>- 1 x best seat in the house.\n</p><p>- Meet and Greet and Photo Opportunity with Katya.\n</p><p>- Exclusive VIP laminate &amp; lanyard.\n</p><p>- Poster. </p><p><br></p><p>\n\nSubscribe to our Mailing List for breaking show news!\n</p><p><a href=\"http://eepurl.com/Olvxr\">http://eepurl.com/Olvxr</a></p><p>\n</p><p>\n'Like' LA Comedy Live on Facebook\n</p><p><a href=\"http://www.facebook.com/lacomedylive\">http://www.facebook.com/lacomedylive</a></p><p>\n</p><p>\nFollow LA Comedy LIVE on Twitter!\n</p><p><a href=\"https://twitter.com/lacomedylive\">https://twitter.com/lacomedylive</a></p><p>\n</p><p>\nFollow LA Comedy LIVE on Instagram!\n</p><p><a href=\"https://instagram.com/lacomedylive\">https://instagram.com/lacomedylive</a></p><p><br></p>",
+                "companyDisplayName": "LA COMEDY LIVE PTE. LTD.",
+                "endDate": "2019-05-12T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "uuid": "004fc476794de3f4f80a521e96558853c81",
+                "metadata": {
+                    "updatedBy": "Georgina_Koh@stb.gov.sg",
+                    "createdBy": "Georgina_Koh@stb.gov.sg",
+                    "createdDate": "2019-04-11T15:56:50Z",
+                    "updatedDate": "2019-04-11T15:56:50Z"
+                },
+                "categoryDescription": "Events",
+                "price": "$88 - $148",
+                "eventOrganizer": "LA Comedy Live",
+                "ticketed": "Y",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Bugis MRT",
+                "officialWebsite": "https://www.la-comedylive.com/katya",
+                "officialEmail": "",
+                "singaporeTourismAwards": "N",
+                "tags": [
+                    "Nightlife",
+                    "Night",
+                    "One Person",
+                    "Performances"
+                ],
+                "description": "Katya Zamolodchikova debuts in Singapore with her brand new comedy show \u201cHelp Me I\u2019m Dying\u201d on May 12, 2019, at Shine Auditorium!",
+                "source": "LA COMEDY LIVE PTE. LTD.",
+                "address": {
+                    "block": "",
+                    "streetName": "100 Beach Rd, Shaw Tower",
+                    "floorNumber": "03",
+                    "unitNumber": "01",
+                    "buildingName": "Shaw Tower",
+                    "postalCode": "189702"
+                },
+                "name": "Katya Live Comedy Show in Singapore 2019 (R18)",
+                "location": {
+                    "longitude": 103.8546734,
+                    "latitude": 1.2967116
+                },
+                "type": "Entertainment"
+            }
+        ],
+        "nextToken": ""
+    },
+    "FOOD & BEVERAGES": {
+        "status": {
+            "code": 200,
+            "message": "OK",
+            "errorDetail": ""
+        },
+        "data": [
+            {
+                "body": "<p>Shilin Night Market (\u58eb\u6797\u591c\u5e02) is one of the largest and most famous night markets in Taiwan for all things good. This April 2019, we are excited to introduce the Shilin Night Market concept to Singapore for the very first time! Experience a taste of Taiwan with elements of local twist in the north of Singapore! With a wide variety of Taiwanese and Singaporean street delicacies, creative eats, pop up artisan stores, arcade games, and even movie screenings, Shilin Night Market will be the most anticipated pop-up market of the year. So join us now to eat(\u5403), shop(\u901b), play(\u73a9) and have fun(\u6a02)!&nbsp;</p><p>Shilin Night Market (\u58eb\u6797\u591c\u5e02)<br><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">The Grounds@Kranji Carpark B at Singapore Turf Club <br>19-21 April 2019 &amp; 26-28 April 2019 <br>3.00pm - 11.00pm</span></p>",
+                "ticketed": "N",
+                "thumbnails": [
+                    {
+                        "uuid": "10185a3a0b32b5448fb98aa8086da876018",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1016ba6ebb2d7a14b368aab896421e4db17",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "startDate": "2019-04-19T08:00:00Z",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "Invade",
+                "price": "",
+                "uuid": "0044045452fa3a343c2a27f531c846c738d",
+                "companyDisplayName": "INVADE INDUSTRY PTE. LTD.",
+                "endDate": "2019-04-28T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "+6565562123",
+                    "secondaryContactNo": "+6596973884",
+                    "otherContactNo": ""
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "metadata": {
+                    "createdDate": "2019-03-05T15:57:43Z",
+                    "updatedDate": "2019-03-05T15:57:43Z",
+                    "updatedBy": "marketing@invade.co",
+                    "createdBy": "marketing@invade.co"
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "Kranji",
+                "officialWebsite": "invade.co",
+                "officialEmail": "hello@invade.co",
+                "tags": [
+                    "Food & Beverages",
+                    "Local Brands",
+                    "Exhibitions",
+                    "Foodie",
+                    "Free admission",
+                    "North",
+                    "Shopping",
+                    "Families"
+                ],
+                "description": "Shilin Night Market is one of Taiwan's largest and most famous night markets. And for the first time, Shilin Night Market concept is coming to Singapore!",
+                "source": "INVADE INDUSTRY PTE. LTD.",
+                "address": {
+                    "block": "",
+                    "streetName": "1 Turf Club Ave",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "The Grounds@Kranji",
+                    "postalCode": "738078"
+                },
+                "name": "Shilin Night Market ",
+                "location": {
+                    "longitude": 103.760292,
+                    "latitude": 1.423233
+                },
+                "type": "MICE"
+            },
+            {
+                "body": "<p>Singapore Cocktail Festival returns from 10 to 18 May 2019, with passes to the Festival Village at the Empress Lawn available at <a href=\"https://www.singaporecocktailfestival.com\">https://www.singaporecocktailfestival.com</a> or connect with us on FB and Instagram at @SGCocktailFest. </p><p><u><b><br></b></u></p><p><u><b>2019 Edition</b></u></p><p><br></p><p><b>COCKTAIL PASSPORT - EVENTS AROUND THE CITY (10 TO 18 MAY 2019)<br></b></p><p>We gather a hit-list of 50 cocktail bars in Singapore - each presenting exclusive Festival cocktails at promotional prices. In addition, expect guest shifts, pop-up parties, special events, flight tastings and showcases, exclusive to the Festival. </p><p>Get promotions through the Cocktail Passport - now also available on mobile via the Sluggr app during the Festival period.<b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>FESTIVAL VILLAGE @ EMPRESS LAWN (10 TO 12 MAY 2019)<br></b></p><p><b>Guest Bartenders\n</b></p><p>Showings from the Asia\u2019s 50 Best Bars list expected in the Festival Village include Singapore\u2019s very own Tippling Club (No. 7 in 2018), Jigger &amp; Pony (No. 40 in 2018), Smalls from Bangkok, Thailand (No. 29 in 2018) and Keepers from Seoul, Korea (No. 47 in 2018) to present you acclaimed, award-winning cocktails.\n\n</p><p><b>Best of SG Bars\n</b></p><p>Your favourite haunts, all under one roof \u2013 Expect to meet Singapore\u2019s best shakers and makers at Festival Village - IB HQ, Neon Pigeon, Origin Bar &amp; Grill, Mitzo, Tess Bar &amp; Kitchen, CIN CIN and new contenders \u2013 Brass Lion Distillery and The Monarchy Cocktail Bar and more!\n\n</p><p><b>Spirit Brand Experiences\n</b></p><p>Leading brands such as Four Pillars Gin, Monkey 47, Hendrick\u2019s Gin and Sabatini Gin among many others will return with immersive cocktail pop-up experiences.\n\n</p><p><b>Artisanal Tasting Room + Food Street\n</b></p><p>At the Artisanal Spirits Tasting Room, sip on unique spirits such as Skin Gin, Apoteca Gin, Black Cow, Codigo 1530, Maracatu Cachaca and more. Enjoy delicious bites at the Food Street, featuring establishments such as Como Cuisine.\n\n</p><p><b>Barstylez International Bartender Championship\n</b></p><p>A new addition to the Festival Village is the adrenaline-fuelled 3-day live competition, where over 60 bartenders from more than 25 countries compete in two categories \u2013 \u2018Flairing\u2019 (International) and \u2018Cocktail\u2019 (Asia).\n\n</p><p><b>Music &amp; Entertainment\n</b></p><p>Shake your booty to R&amp;B and Soul (Friday, 10 May), Retro (Saturday, 11 May) and Afrobeat (Sunday, 12 May) - from the likes of Brendon P (Doomph), Tirso (Matteblacc), Joshua P, Olle Des and Ya5th of retro club Nineteen80 as well as veteran selectors Ramesh K and Anand (Beatroot) to take you on a world music journey. \n</p><p>Visit https://www.singaporecocktailfestival.com for updates and news!<br></p>",
+                "ticketed": "Y",
+                "thumbnails": [
+                    {
+                        "uuid": "101a21b7187abb24553a0fb2d10d7aa950a",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1019552678d71c34bf3910a859c7e6866c2",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "1012904c6636ae445069e7f38b95db55457",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101bbe7253a704f4d78a7e48402dc3457b4",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101eca0d53c2b9845d58d6075b5e0615cd8",
+                        "libraryUuid": "",
+                        "url": ""
+                    },
+                    {
+                        "uuid": "101aaed0c053f004ba8b33e4c8183642162",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "startDate": "2019-05-10T08:00:00Z",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "Curated Asia",
+                "price": "Starts at $35 with welcome drink",
+                "uuid": "004c4e8e12d49b842b6854739d591d39005",
+                "companyDisplayName": "The Events Artery Pte Ltd",
+                "endDate": "2019-05-18T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "+6562214680",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "metadata": {
+                    "createdDate": "2019-03-07T17:32:50Z",
+                    "updatedDate": "2019-03-07T17:32:50Z",
+                    "updatedBy": "shamima@eventsartery.com",
+                    "createdBy": "shamima@eventsartery.com"
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "City Hall",
+                "officialWebsite": "https://www.singaporecocktailfestival.com",
+                "officialEmail": "hello@singaporecocktailfestival.com",
+                "tags": [
+                    "Full-Day",
+                    "Incentives",
+                    "Entertainment",
+                    "Networking",
+                    "Night",
+                    "Civic District",
+                    "Central",
+                    "Outdoors",
+                    "Cityscape",
+                    "Nightlife",
+                    "Unique Dining",
+                    "Culture Shaper",
+                    "Travel Events",
+                    "Foodie",
+                    "Budget",
+                    "Group of People",
+                    "Socialisers",
+                    "Social Events",
+                    "International Brands",
+                    "Unique Venues",
+                    "Attractions",
+                    "Fine Dining",
+                    "Casual Dining",
+                    "3-Days",
+                    "Sunset",
+                    "Local Brands",
+                    "Music",
+                    "Landmarks",
+                    "Adults",
+                    "Lifestyles",
+                    "Two People",
+                    "Parks and Gardens"
+                ],
+                "description": "Asia's Largest Celebration of Cocktails!",
+                "source": "THE EVENTS ARTERY PTE. LTD.",
+                "address": {
+                    "block": "10",
+                    "streetName": "Empress Place",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "Empress Lawn",
+                    "postalCode": "179555"
+                },
+                "name": "SG Cocktail Festival",
+                "location": {
+                    "longitude": 103.852036,
+                    "latitude": 1.287982
+                },
+                "type": "Food & Beverages"
+            },
+            {
+                "body": "<p>The most eagerly-anticipated K-pop music festival in the region, HallyuPopFest, returns this May for its second edition in Singapore. The best of Korean music and culture will converge at the electrifying K-pop extravaganza on 25 and 26 May 2019 at Singapore Indoor Stadium. Superstars SUPER JUNIOR, will be headlining the festival, along with wildly popular bands such as MONSTA X, NU\u2019EST and WINNER.</p><p>In this year\u2019s edition, a new segment, HallyuTown will also debut. It will function as the main festival square where HallyuPopFest\u2019s much-loved Red Carpet event will be held. HallyuTown will be open to the public, offering a variety of Hallyu-related booths and activities featuring K-Food, K-Beauty and K-Lifestyle, as well as a dedicated Fan Support area for fans to show their love and support for their idols.\n\nEach event day, festival-goers get an all-in-one, day-to-night experience, starting with activities at HallyuTown, Showcase performances by up-and-coming K-pop artistes, the Red Carpet event, Artiste Engagement opportunities and finally our spectacular Evening Concerts featuring our headliner acts. The artiste line-up will boast a total of 15 performing acts including established boyband PENTAGON, top girl groups (G)I-DLE and OH MY GIRL, reggaeton group K.A.R.D, veteran soloist HYOLYN, chart-topping rock band N.FLYING, and talented rapper KANTO, as well as the next generation of K-pop music acts including GWSN, A.C.E, VERIVERY and TREI.</p><p>Each HallyuPopFest ticket gives festival-goers access to two concert events on that day - the afternoon Showcase that runs about 2 hours long, and the 3-hour Evening Concert where headliners will perform individual sets of at least 30 minutes each, making it a \u201cconcert within a concert\u201d. For Category 1, 2 and 3 ticket holders who would like a more personal fan experience, they may opt for the HallyuPass for Artiste Engagement which gives them a once-in-a-lifetime interaction experience with an artiste performing that day. </p><p>\n\nHallyuPopFest will be the only K-pop music festival you'll want to attend this year. #AreYouReady?</p><p>Tickets available at Sportshubtix.&nbsp;</p><p>More information at www.hallyupopfest.com</p><p></p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">All information is correct at the time of publishing but subject to change.</span><br></p>",
+                "ticketed": "Y",
+                "thumbnails": [
+                    {
+                        "uuid": "10101868f67c7da4c9f8058ecc4836af50c",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "images": [
+                    {
+                        "uuid": "1015fd2655cc9294211bcff41ce5a0a27d1",
+                        "libraryUuid": "",
+                        "url": ""
+                    }
+                ],
+                "startDate": "2019-05-25T08:00:00Z",
+                "singaporeTourismAwards": "N",
+                "eventOrganizer": "H.A.H. Entertainment",
+                "price": "$98 - $288",
+                "uuid": "004d8d875ce62314320a4d557ab4f486cf7",
+                "companyDisplayName": "H.A.H. ENTERTAINMENT PTE. LTD.",
+                "endDate": "2019-05-26T08:00:00Z",
+                "contact": {
+                    "primaryContactNo": "",
+                    "secondaryContactNo": "",
+                    "otherContactNo": ""
+                },
+                "supportedLanguage": [
+                    "EN"
+                ],
+                "rating": 0,
+                "metadata": {
+                    "createdDate": "2019-04-11T15:48:38Z",
+                    "updatedDate": "2019-04-11T15:48:38Z",
+                    "updatedBy": "Georgina_Koh@stb.gov.sg",
+                    "createdBy": "Georgina_Koh@stb.gov.sg"
+                },
+                "categoryDescription": "Events",
+                "videos": [],
+                "documents": [],
+                "nearestMrtStation": "",
+                "officialWebsite": "www.hallyupopfest.com",
+                "officialEmail": "",
+                "tags": [
+                    "Entertainment",
+                    "Music"
+                ],
+                "description": "The most eagerly-anticipated K-pop music festival in the region, HallyuPopFest (HPF) returns this May for its second edition in Singapore.",
+                "source": "H.A.H. ENTERTAINMENT PTE. LTD.",
+                "address": {
+                    "block": "",
+                    "streetName": "65 Chulia Street #46-00",
+                    "floorNumber": "",
+                    "unitNumber": "",
+                    "buildingName": "",
+                    "postalCode": "049513"
+                },
+                "name": "HallyuPopFest 2019",
+                "location": {
+                    "longitude": 103.8467067,
+                    "latitude": 1.285184
+                },
+                "type": "Entertainment"
+            }
+        ],
+        "nextToken": ""
+    }
+}

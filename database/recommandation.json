@@ -1,0 +1,26 @@
+{
+    "Sydney Opera House": {
+        "description": "The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.Designed by Danish architect J\u00f8rn Utzon, the building was formally opened on 20 October 1973 after a gestation beginning with Utzon's 1957 selection as winner of an international design competition.",
+        "photo_url": "https://lh3.googleusercontent.com/p/AF1QipOVNRzL8iGyrRDzv0HT4sC-thKcd5mQ32XcqfKW=s1600-w400"
+    },
+    "Blue Mountains (New South Wales)": {
+        "description": "The Blue Mountains are a mountainous region and a mountain range located in New South Wales, Australia. The region borders on Sydney's metropolitan area, its foothills starting about 50 kilometres (31 mi) west of centre of the state capital.",
+        "photo_url": "https://lh3.googleusercontent.com/p/AF1QipM8g-KiUZES4vnV70CwGb8RdKbW9AZY5oRp7_e7=s1600-w400"
+    },
+    "University of New South Wales": {
+        "description": "The University of New South Wales (UNSW; branded as UNSW Sydney) is an Australian public research university located in the Sydney suburb of Kensington. Established in 1949, it is ranked 4th in Australia, 45th in the world, and 2nd in New South Wales according to the 2018 QS World University Rankings.The university comprises nine faculties, through which it offers bachelor, master and doctoral degrees.",
+        "photo_url": "https://lh3.googleusercontent.com/p/AF1QipMNKcMpG9SZDij-EF7c6PxKiqqvxsUeWgibMFAZ=s1600-w400"
+    },
+    "Marina Bay Sands": {
+        "description": "Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore, owned by the Las Vegas Sands corporation. At its opening in 2010, it was billed as the world's most expensive standalone casino property at S$8 billion, including the land cost.",
+        "photo_url": "/static/style/marina.jpg"
+    },
+    "Singapore Flyer": {
+        "description": "The Singapore Flyer is a giant Ferris wheel in Singapore. Described by its operators as an observation wheel, it opened in 2008, construction having taken about 2\u00bd years.",
+        "photo_url": "/static/style/singapore-flyer-03.jpg"
+    },
+    "Night safari": {
+        "description": "A night safari is a nocturnal visit to a zoo or wildlife-spotting natural area. The term was first used by the Night Safari, Singapore, which opened in 1994.",
+        "photo_url": "/static/style/night_safari.jpeg"
+    }
+}

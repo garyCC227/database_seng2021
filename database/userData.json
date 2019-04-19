@@ -1,0 +1,83 @@
+{
+    "gary": {
+        "timetable": {
+            "2019-04-29": {
+                "Mon": {
+                    "date": "2019-04-29"
+                },
+                "Tue": {
+                    "date": "2019-04-30"
+                },
+                "Wed": {
+                    "date": "2019-05-01"
+                },
+                "Thu": {
+                    "date": "2019-05-02",
+                    "9": {
+                        "name": "Spectra - A Light & Water Show",
+                        "address": "2 Bayfront Ave, Event Plaza, Singapore 018972"
+                    }
+                },
+                "Fri": {
+                    "date": "2019-05-03"
+                },
+                "Sat": {
+                    "date": "2019-05-04",
+                    "9": {
+                        "name": "Marina Bay Sands Singapore",
+                        "address": "10 Bayfront Ave, Singapore 018956"
+                    },
+                    "10": {
+                        "name": "The Fullerton Hotel Singapore",
+                        "address": "1 Fullerton Square, Singapore 049178"
+                    }
+                },
+                "Sun": {
+                    "date": "2019-05-05"
+                }
+            },
+            "2019-04-22": {
+                "Mon": {
+                    "date": "2019-04-22"
+                },
+                "Tue": {
+                    "date": "2019-04-23"
+                },
+                "Wed": {
+                    "date": "2019-04-24"
+                },
+                "Thu": {
+                    "date": "2019-04-25"
+                },
+                "Fri": {
+                    "date": "2019-04-26"
+                },
+                "Sat": {
+                    "date": "2019-04-27",
+                    "10": {
+                        "name": "The Fullerton Hotel Singapore",
+                        "address": "1 Fullerton Square, Singapore 049178"
+                    }
+                },
+                "Sun": {
+                    "date": "2019-04-28",
+                    "9": {
+                        "name": "Marina Bay Sands Singapore",
+                        "address": "10 Bayfront Ave, Singapore 018956"
+                    }
+                }
+            }
+        },
+        "password": "1234",
+        "name": "gary",
+        "bank": {
+            "Lim Cheng Hoe: Painting Singapore": "St Andrew's Road",
+            "ULTRA Singapore 2019": "1 Bayfront Avenue",
+            "Marina Bay Sands Singapore": "10 Bayfront Ave, Singapore 018956",
+            "The Fullerton Hotel Singapore": "1 Fullerton Square, Singapore 049178",
+            "Spectra - A Light & Water Show": "2 Bayfront Ave, Event Plaza, Singapore 018972",
+            "Flower Dome": "18 Marina Gardens Dr, Singapore 018953"
+        },
+        "email": "1234@gmail"
+    }
+}
