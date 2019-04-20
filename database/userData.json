@@ -50,21 +50,29 @@
                     "date": "2019-04-25"
                 },
                 "Fri": {
-                    "date": "2019-04-26"
+                    "date": "2019-04-26",
+                    "9": {
+                        "name": "The Fullerton Hotel Singapore",
+                        "address": "1 Fullerton Square, Singapore 049178"
+                    },
+                    "11": {
+                        "name": "Flower Dome",
+                        "address": "18 Marina Gardens Dr, Singapore 018953"
+                    }
                 },
                 "Sat": {
                     "date": "2019-04-27",
-                    "10": {
-                        "name": "The Fullerton Hotel Singapore",
-                        "address": "1 Fullerton Square, Singapore 049178"
+                    "9": {
+                        "name": "ULTRA Singapore 2019",
+                        "address": "1 Bayfront Avenue"
+                    },
+                    "11": {
+                        "name": "Night Safari",
+                        "address": "80 Mandai Lake Rd, Singapore 729826"
                     }
                 },
                 "Sun": {
-                    "date": "2019-04-28",
-                    "9": {
-                        "name": "Marina Bay Sands Singapore",
-                        "address": "10 Bayfront Ave, Singapore 018956"
-                    }
+                    "date": "2019-04-28"
                 }
             }
         },
@@ -76,8 +84,14 @@
             "Marina Bay Sands Singapore": "10 Bayfront Ave, Singapore 018956",
             "The Fullerton Hotel Singapore": "1 Fullerton Square, Singapore 049178",
             "Spectra - A Light & Water Show": "2 Bayfront Ave, Event Plaza, Singapore 018972",
-            "Flower Dome": "18 Marina Gardens Dr, Singapore 018953"
+            "Flower Dome": "18 Marina Gardens Dr, Singapore 018953",
+            "Cloud Forest": "18 Marina Gardens Dr, Singapore 018953",
+            "Singapore International Festival of Arts 2019 ": "Aliwal Arts Centre, 28 Aliwal St",
+            "Raffles Marina Lighthouse": "Raffles Marina Lighthouse, Singapore",
+            "Singapore Flyer": "30 Raffles Ave, Singapore 039803",
+            "Night Safari": "80 Mandai Lake Rd, Singapore 729826",
+            "ArtScience Museum": "6 Bayfront Ave, Singapore 018974"
         },
-        "email": "1234@gmail"
+        "email": "32321"
     }
 }

@@ -3694,27 +3694,23 @@
     ],
     "null": [
         {
+            "typeDescription": "",
+            "uuid": "003018dda1dfee74eb68d27682a3f9f6765",
+            "isPrivate": false,
+            "companyDisplayName": "HungryGoWhere",
             "defaultLanguage": "EN",
             "supportedLanguage": [
                 "EN"
             ],
             "reviews": [],
             "rating": 0,
-            "uuid": "003018dda1dfee74eb68d27682a3f9f6765",
-            "isPrivate": false,
-            "companyDisplayName": "HungryGoWhere",
+            "shortDescription": "",
+            "amenities": null,
             "body": "<p style=\"text-align: justify;\">Tucked away in the serene neighbourhood and set amidst lush greenery of Changi Village, Saltwater offers a wide variety in its buffet spread. Taking the centre stage of Saltwater is none other than the live barbeque station*, our Grill Master standing by and preparing gourmet meats and fresh seafood a la minute. Featuring a wide selection of all-you-can-eat Meat Skewers, Chargrilled Chicken, Beef Ribs, King Prawns, Scallops, seafood, and many more &ndash; this spread is bound to captivate the hearts of all carnivores! Indulge in a premium selection of meat cuts of Tomahawk Steaks, Wagyu, and Whole Lamb Leg on rotation from day to day. Also on the spread are our award-winning Nonya Laksa, Oxtail stew, Cereal Prawns, Mutton Biryani, Wok fried Mee Siam, DIY Rojak, and signature Durian Desserts.</p>\n<p style=\"text-align: justify;\">*On Friday to Sunday Dinners only</p>\n<p style=\"text-align: justify;\"><br /><strong>MUST TRIES:</strong> Nonya Laksa, BBQ Seafood &amp; Satay, Durian Pengat Shooters, DIY Rojak, Seafood on Ice</p>",
             "contact": {
                 "primaryContactNo": "",
                 "secondaryContactNo": "",
                 "otherContactNo": ""
-            },
-            "shortDescription": "",
-            "metadata": {
-                "createdDate": "2019-04-11T08:28:05Z",
-                "updatedDate": "2019-04-12T08:28:16Z",
-                "updatedBy": "jmteeluy@singtel.com",
-                "createdBy": "jmteeluy@singtel.com"
             },
             "thumbnails": [
                 {
@@ -3730,11 +3726,15 @@
                     "url": "https://i.hungrygowhere.com/business/fe/9f/12/00/23215648-1547359675312306-5906043783046252683-o.jpg"
                 }
             ],
-            "amenities": null,
-            "typeDescription": "",
+            "metadata": {
+                "updatedBy": "jmteeluy@singtel.com",
+                "updatedDate": "2019-04-12T08:28:16Z",
+                "createdBy": "jmteeluy@singtel.com",
+                "createdDate": "2019-04-11T08:28:05Z"
+            },
+            "categoryDescription": "Food & Beverages",
             "videos": [],
             "documents": [],
-            "categoryDescription": "Food & Beverages",
             "cuisine": "Asian, Halal, International, Seafood, Singaporean",
             "pricing": "",
             "businessHour": [],
@@ -3751,9 +3751,9 @@
                 "East",
                 "Changi"
             ],
+            "origin": "",
             "description": "Tucked away in the serene neighbourhood and set amidst lush greenery of Changi Village, Saltwater offers a wide variety in its buffet spread. Taking the centre stage of Saltwater is none other than the live barbeque station*, our Grill Master standing by and preparing gourmet meats and fresh seafood a la minute. Featuring a wide selection of all-you-can-eat Meat Skewers, Chargrilled Chicken, Beef Ribs, King Prawns, Scallops, seafood, and many more &ndash; this spread is bound to captivate the hearts of all carnivores! Indulge in a premium selection of meat cuts of Tomahawk Steaks, Wagyu, and Whole Lamb Leg on rotation from day to day. Also on the spread are our award-winning Nonya Laksa, Oxtail stew, Cereal Prawns, Mutton Biryani, Wok fried Mee Siam, DIY Rojak, and signature Durian Desserts. *On Friday to Sunday Dinners only \nMUST TRIES: Nonya Laksa, BBQ Seafood & Satay, Durian Pengat Shooters, DIY Rojak, Seafood on Ice",
             "source": "HungryGoWhere",
-            "origin": "",
             "address": {
                 "block": "1",
                 "streetName": "Netheravon Road",
@@ -3770,27 +3770,23 @@
             "type": "RESTAURANT"
         },
         {
+            "typeDescription": "",
+            "uuid": "0059260daa6ec384cef9ddcdb6c2b091bcb",
+            "isPrivate": false,
+            "companyDisplayName": "HungryGoWhere",
             "defaultLanguage": "EN",
             "supportedLanguage": [
                 "EN"
             ],
             "reviews": [],
             "rating": 0,
-            "uuid": "0059260daa6ec384cef9ddcdb6c2b091bcb",
-            "isPrivate": false,
-            "companyDisplayName": "HungryGoWhere",
+            "shortDescription": "",
+            "amenities": null,
             "body": "<p><strong>Overview:</strong></p>\n<p>Sessions is a 3-in-1 dining destination in Hard Rock Hotel Singapore. Combining a relaxed caf&eacute; serving sweet treats, a restaurant dishing up hearty crabs, seafood and local hot wok favourites, plus an interactive studio with a fully equipped kitchen for individuals or groups to try their hands at cooking under the guidance of our chefs, Sessions is a multi-concept dining destination where you can share good food and fun with your favourite people.</p>\n<p><strong>Chef Bio:</strong></p>\n<p>Kelvin Lim</p>\n<p>To consistently prepare scrumptious crabs, seafood dishes and tantalizing local hot wok require skills masterfully honed in the kitchen. None does it more perfectly and deliciously than Chef Kelvin Lim who has more than 30 years of experience under his belt.</p>\n<p>He began his career as a humble 2nd cutter at Goodwood Park Hotel back in 1982 and steadily rose through the ranks in the kitchens of other esteemed hotels and country clubs in Singapore. His career highlights include introducing the Lobster Laksa during his time at Chatterbox Coffeehouse (Meritus Mandarin) &ndash; where the dish quickly became one of the best-sellers in the famous eatery.</p>",
             "contact": {
                 "primaryContactNo": "",
                 "secondaryContactNo": "",
                 "otherContactNo": ""
-            },
-            "shortDescription": "",
-            "metadata": {
-                "createdDate": "2019-04-02T08:28:12Z",
-                "updatedDate": "2019-04-02T08:28:12Z",
-                "updatedBy": "jmteeluy@singtel.com",
-                "createdBy": "jmteeluy@singtel.com"
             },
             "thumbnails": [
                 {
@@ -3806,11 +3802,15 @@
                     "url": "https://i.hungrygowhere.com/business/ef/88/12/00/crab-bucket.jpg"
                 }
             ],
-            "amenities": null,
-            "typeDescription": "",
+            "metadata": {
+                "updatedBy": "jmteeluy@singtel.com",
+                "updatedDate": "2019-04-02T08:28:12Z",
+                "createdBy": "jmteeluy@singtel.com",
+                "createdDate": "2019-04-02T08:28:12Z"
+            },
+            "categoryDescription": "Food & Beverages",
             "videos": [],
             "documents": [],
-            "categoryDescription": "Food & Beverages",
             "cuisine": "Desserts, Local, Seafood",
             "pricing": "",
             "businessHour": [],
@@ -3826,9 +3826,9 @@
                 "West",
                 "Harbourfront"
             ],
+            "origin": "",
             "description": "Overview: Sessions is a 3-in-1 dining destination in Hard Rock Hotel Singapore. Combining a relaxed caf&eacute; serving sweet treats, a restaurant dishing up hearty crabs, seafood and local hot wok favourites, plus an interactive studio with a fully equipped kitchen for individuals or groups to try their hands at cooking under the guidance of our chefs, Sessions is a multi-concept dining destination where you can share good food and fun with your favourite people. Chef Bio: Kelvin Lim To consistently prepare scrumptious crabs, seafood dishes and tantalizing local hot wok require skills masterfully honed in the kitchen. None does it more perfectly and deliciously than Chef Kelvin Lim who has more than 30 years of experience under his belt. He began his career as a humble 2nd cutter at Goodwood Park Hotel back in 1982 and steadily rose through the ranks in the kitchens of other esteemed hotels and country clubs in Singapore. His career highlights include introducing the Lobster Laksa during his time at Chatterbox Coffeehouse (Meritus Mandarin) &ndash; where the dish quickly became one of the best-sellers in the famous eatery.",
             "source": "HungryGoWhere",
-            "origin": "",
             "address": {
                 "block": "26",
                 "streetName": "Sentosa Gateway",
@@ -3845,20 +3845,15 @@
             "type": "RESTAURANT"
         },
         {
+            "typeDescription": "",
+            "uuid": "0033f14dd2530bd43d8aba74685e7c7672a",
+            "isPrivate": false,
+            "companyDisplayName": "KITCHEN LANGUAGE PTE. LTD.",
             "defaultLanguage": "EN",
             "supportedLanguage": [
                 "EN"
             ],
             "reviews": [
-                {
-                    "authorName": "Brandon Yeo",
-                    "authorURL": "https://www.google.com/maps/contrib/105654128362934703471/reviews",
-                    "profilePhoto": "https://lh3.googleusercontent.com/-wy9c6GzjziM/AAAAAAAAAAI/AAAAAAAAQjU/MLo4rA2EuHU/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-                    "rating": 4,
-                    "text": "Quality of food is fresh and good! Thoroughly enjoyed the snow crabs and the other mains!",
-                    "time": "2019-03-03T00:00:00Z",
-                    "language": "en"
-                },
                 {
                     "authorName": "Vera Lee",
                     "authorURL": "https://www.google.com/maps/contrib/117453995185026122004/reviews",
@@ -3866,6 +3861,15 @@
                     "rating": 3,
                     "text": "It's halal restaurant, not a lot of variety but taste not bad.",
                     "time": "2019-03-31T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Brandon Yeo",
+                    "authorURL": "https://www.google.com/maps/contrib/105654128362934703471/reviews",
+                    "profilePhoto": "https://lh3.googleusercontent.com/-wy9c6GzjziM/AAAAAAAAAAI/AAAAAAAAQjU/MLo4rA2EuHU/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+                    "rating": 4,
+                    "text": "Quality of food is fresh and good! Thoroughly enjoyed the snow crabs and the other mains!",
+                    "time": "2019-03-03T00:00:00Z",
                     "language": "en"
                 },
                 {
@@ -3887,31 +3891,23 @@
                     "language": "en"
                 },
                 {
-                    "authorName": "Wilson Ong",
-                    "authorURL": "https://www.google.com/maps/contrib/102996420869034214126/reviews",
-                    "profilePhoto": "https://lh6.googleusercontent.com/-MYUVFk0aR4Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdQncbI9m6h1InPSb5dRlPmIzUNIw/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-                    "rating": 4,
-                    "text": "Nice atmosphere, average spread but good tasting food on a whole! One of the better halal buffet at this price range.",
-                    "time": "2018-12-06T00:00:00Z",
+                    "authorName": "Stephanie Ann Kessler",
+                    "authorURL": "https://www.google.com/maps/contrib/115663020184883177254/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-fgjQLZZpnfE/AAAAAAAAAAI/AAAAAAAANdU/Ti4OvQa5Vqk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "Loved it. It really was a great place to have a team lunch. We were all happy!!",
+                    "time": "2018-10-16T00:00:00Z",
                     "language": "en"
                 }
             ],
             "rating": 4.1,
-            "uuid": "0033f14dd2530bd43d8aba74685e7c7672a",
-            "isPrivate": false,
-            "companyDisplayName": "KITCHEN LANGUAGE PTE. LTD.",
+            "shortDescription": "",
+            "amenities": "Serves Halal Food",
             "body": "Tucked away in the serene neighbourhood and set amidst the lush greenery of Changi Village, Saltwater welcomes all, from the business traveller to families and holiday-makers. Guests can tuck in to a Sumptuous Buffet with Asian and Local Singaporean Food Galore in the spacious indoor area, or dine alfresco, overlooking Changi Golf Club.\n\nOur live barbeque station available on Friday to Sunday (dinner only) includes a wide selection of all-you-can-eat meat and seafood grilled a la minute by our chefs!\n\nIn line with Saltwater\u2019s aim to extend its reach to the Muslim community, it has been certified Halal by The Islamic Religious Council of Singapore (MUIS).\n\nTaking the center stage of Saltwater is none other than the live barbeque station*, our Grill Master standing by and preparing gourmet meats and fresh seafood a la minute. Featuring a wide selection of all-you-can-eat Meat Skewers, Chargrilled Chicken, Beef Ribs, King Prawns, Scallops, seafood, and many more \u2013 this spread is bound to captivate the hearts of all carnivores! Indulge in a premium selection of meat cuts of Tomahawk Steaks, Wagyu, and Whole Lamb Leg on rotation from day to day.\n\nAlso on the spread are our award-winning Nonya Laksa, Oxtail stew, Cereal Prawns, Mutton Briyani, Wokfried Mee Siam, DIY Rojak, and signature Durian Desserts.\n\n*On Fridays to Sunday Dinner only.",
             "contact": {
                 "primaryContactNo": "",
                 "secondaryContactNo": "",
                 "otherContactNo": ""
-            },
-            "shortDescription": "",
-            "metadata": {
-                "createdDate": "2019-03-14T17:40:31Z",
-                "updatedDate": "2019-03-14T17:40:31Z",
-                "updatedBy": "Georgina_Koh@stb.gov.sg",
-                "createdBy": "Georgina_Koh@stb.gov.sg"
             },
             "thumbnails": [
                 {
@@ -3932,190 +3928,194 @@
                     "url": ""
                 }
             ],
-            "amenities": "Serves Halal Food",
-            "typeDescription": "",
+            "metadata": {
+                "updatedBy": "Georgina_Koh@stb.gov.sg",
+                "updatedDate": "2019-03-14T17:40:31Z",
+                "createdBy": "Georgina_Koh@stb.gov.sg",
+                "createdDate": "2019-03-14T17:40:31Z"
+            },
+            "categoryDescription": "Food & Beverages",
             "videos": [],
             "documents": [],
-            "categoryDescription": "Food & Beverages",
             "cuisine": "Local, Peranakan",
             "pricing": "",
             "businessHour": [
                 {
-                    "daily": false,
-                    "openTime": "06:30",
                     "closeTime": "10:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "monday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "12:00",
                     "closeTime": "14:30",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "12:00",
                     "day": "monday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "18:30",
                     "closeTime": "22:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "18:30",
                     "day": "monday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "06:30",
                     "closeTime": "10:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "tuesday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "12:00",
                     "closeTime": "14:30",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "12:00",
                     "day": "tuesday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "18:30",
                     "closeTime": "22:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "18:30",
                     "day": "tuesday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "06:30",
                     "closeTime": "10:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "wednesday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "12:00",
                     "closeTime": "14:30",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "12:00",
                     "day": "wednesday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "18:30",
                     "closeTime": "22:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "18:30",
                     "day": "wednesday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "06:30",
                     "closeTime": "10:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "thursday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "12:00",
                     "closeTime": "14:30",
                     "notes": null,
-                    "day": "thursday",
-                    "sequenceNumber": 0,
-                    "description": null
-                },
-                {
-                    "daily": false,
-                    "openTime": "18:30",
-                    "closeTime": "22:00",
-                    "notes": null,
-                    "day": "thursday",
-                    "sequenceNumber": 0,
-                    "description": null
-                },
-                {
-                    "daily": false,
-                    "openTime": "06:30",
-                    "closeTime": "10:00",
-                    "notes": null,
-                    "day": "friday",
-                    "sequenceNumber": 0,
-                    "description": null
-                },
-                {
                     "daily": false,
                     "openTime": "12:00",
-                    "closeTime": "14:30",
-                    "notes": null,
-                    "day": "friday",
+                    "day": "thursday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "18:30",
                     "closeTime": "22:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "18:30",
+                    "day": "thursday",
+                    "sequenceNumber": 0,
+                    "description": null
+                },
+                {
+                    "closeTime": "10:00",
+                    "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "friday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
+                    "closeTime": "14:30",
+                    "notes": null,
                     "daily": false,
-                    "openTime": "06:30",
+                    "openTime": "12:00",
+                    "day": "friday",
+                    "sequenceNumber": 0,
+                    "description": null
+                },
+                {
+                    "closeTime": "22:00",
+                    "notes": null,
+                    "daily": false,
+                    "openTime": "18:30",
+                    "day": "friday",
+                    "sequenceNumber": 0,
+                    "description": null
+                },
+                {
                     "closeTime": "10:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "saturday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "12:00",
                     "closeTime": "15:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "12:00",
                     "day": "saturday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "06:30",
                     "closeTime": "10:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "06:30",
                     "day": "sunday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "12:00",
                     "closeTime": "15:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "12:00",
                     "day": "sunday",
                     "sequenceNumber": 0,
                     "description": null
                 },
                 {
-                    "daily": false,
-                    "openTime": "18:30",
                     "closeTime": "22:00",
                     "notes": null,
+                    "daily": false,
+                    "openTime": "18:30",
                     "day": "public_holiday",
                     "sequenceNumber": 0,
                     "description": null
@@ -4132,9 +4132,9 @@
                 "Buffet",
                 "Halal"
             ],
+            "origin": "KITCHEN LANGUAGE PTE. LTD.",
             "description": "Sumptuous Buffet with Asian and Local Singaporean Food Galore in the spacious indoor area, or dine alfresco, overlooking Changi Golf Club",
             "source": "KITCHEN LANGUAGE PTE. LTD.",
-            "origin": "KITCHEN LANGUAGE PTE. LTD.",
             "address": {
                 "block": "",
                 "streetName": "1 Netheravon Rd",
@@ -5175,6 +5175,876 @@
                 "latitude": 1.284629
             },
             "type": "NATURE_WILDLIFE"
+        }
+    ],
+    "003018dda1dfee74eb68d27682a3f9f6765": [
+        {
+            "typeDescription": "",
+            "uuid": "003018dda1dfee74eb68d27682a3f9f6765",
+            "isPrivate": false,
+            "companyDisplayName": "HungryGoWhere",
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "reviews": [],
+            "rating": 0,
+            "shortDescription": "",
+            "amenities": null,
+            "body": "<p style=\"text-align: justify;\">Tucked away in the serene neighbourhood and set amidst lush greenery of Changi Village, Saltwater offers a wide variety in its buffet spread. Taking the centre stage of Saltwater is none other than the live barbeque station*, our Grill Master standing by and preparing gourmet meats and fresh seafood a la minute. Featuring a wide selection of all-you-can-eat Meat Skewers, Chargrilled Chicken, Beef Ribs, King Prawns, Scallops, seafood, and many more &ndash; this spread is bound to captivate the hearts of all carnivores! Indulge in a premium selection of meat cuts of Tomahawk Steaks, Wagyu, and Whole Lamb Leg on rotation from day to day. Also on the spread are our award-winning Nonya Laksa, Oxtail stew, Cereal Prawns, Mutton Biryani, Wok fried Mee Siam, DIY Rojak, and signature Durian Desserts.</p>\n<p style=\"text-align: justify;\">*On Friday to Sunday Dinners only</p>\n<p style=\"text-align: justify;\"><br /><strong>MUST TRIES:</strong> Nonya Laksa, BBQ Seafood &amp; Satay, Durian Pengat Shooters, DIY Rojak, Seafood on Ice</p>",
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "thumbnails": [
+                {
+                    "uuid": "",
+                    "libraryUuid": "",
+                    "url": "https://i.hungrygowhere.com/business//fe/9f/12/00/23215648-1547359675312306-5906043783046252683-o_200x200_c1b7d3a343.jpg"
+                }
+            ],
+            "images": [
+                {
+                    "uuid": "",
+                    "libraryUuid": "",
+                    "url": "https://i.hungrygowhere.com/business/fe/9f/12/00/23215648-1547359675312306-5906043783046252683-o.jpg"
+                }
+            ],
+            "metadata": {
+                "updatedBy": "jmteeluy@singtel.com",
+                "updatedDate": "2019-04-12T08:28:16Z",
+                "createdBy": "jmteeluy@singtel.com",
+                "createdDate": "2019-04-11T08:28:05Z"
+            },
+            "categoryDescription": "Food & Beverages",
+            "videos": [],
+            "documents": [],
+            "cuisine": "Asian, Halal, International, Seafood, Singaporean",
+            "pricing": "",
+            "businessHour": [],
+            "nearestMrtStation": "Changi Airport",
+            "officialWebsite": "https://www.hungrygowhere.com/singapore/saltwater-cafe-village-hotel-changi-changi-village-loyang/",
+            "officialEmail": null,
+            "staYear": null,
+            "openingHours": [],
+            "dataset": "food_beverages",
+            "tags": [
+                "Unique Dining",
+                "Local Foods",
+                "Halal",
+                "East",
+                "Changi"
+            ],
+            "origin": "",
+            "description": "Tucked away in the serene neighbourhood and set amidst lush greenery of Changi Village, Saltwater offers a wide variety in its buffet spread. Taking the centre stage of Saltwater is none other than the live barbeque station*, our Grill Master standing by and preparing gourmet meats and fresh seafood a la minute. Featuring a wide selection of all-you-can-eat Meat Skewers, Chargrilled Chicken, Beef Ribs, King Prawns, Scallops, seafood, and many more &ndash; this spread is bound to captivate the hearts of all carnivores! Indulge in a premium selection of meat cuts of Tomahawk Steaks, Wagyu, and Whole Lamb Leg on rotation from day to day. Also on the spread are our award-winning Nonya Laksa, Oxtail stew, Cereal Prawns, Mutton Biryani, Wok fried Mee Siam, DIY Rojak, and signature Durian Desserts. *On Friday to Sunday Dinners only \nMUST TRIES: Nonya Laksa, BBQ Seafood & Satay, Durian Pengat Shooters, DIY Rojak, Seafood on Ice",
+            "source": "HungryGoWhere",
+            "address": {
+                "block": "1",
+                "streetName": "Netheravon Road",
+                "floorNumber": "1",
+                "unitNumber": "",
+                "buildingName": "Village Hotel Changi",
+                "postalCode": "508502"
+            },
+            "name": "Saltwater",
+            "location": {
+                "longitude": 103.986148,
+                "latitude": 1.3903562
+            },
+            "type": "RESTAURANT"
+        }
+    ],
+    "0048d0e81c18be6433eac2bd3426de4699a": [
+        {
+            "body": "<p>As Singapore\u2019s annual pinnacle arts festival, the Singapore International Festival of Arts (SIFA) presents captivating and diverse works across theatre, music, dance, film and visual arts. First launched as the Singapore Festival of Arts in 1977, the festival has gone through several evolutions and inspired generations of arts lovers and practitioners. Today, the highly-anticipated festival is a high-point on Singapore\u2019s arts and cultural calendar.</p><p>\nUnder the helm of Festival Director Gaurav Kripalani from 2018\u20132020, SIFA continues its festival mission to champion the creation and presentation of Singaporean and international works. \n\nFestival House\n \nAt SIFA 2019, The Arts House will once again be transformed into the Festival House. With meaningful engagement opportunities from artists talks, workshops, discussions and the festival bar\u2014House Pour, the Festival House breaks down the walls between artists and audiences to create unique experiences and inspiring artistic encounters.<br></p>",
+            "ticketed": "Y",
+            "endDate": "2019-06-02T08:00:00Z",
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "uuid": "0048d0e81c18be6433eac2bd3426de4699a",
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "rating": 0,
+            "isPrivate": false,
+            "companyDisplayName": "ARTS HOUSE LTD.",
+            "startDate": "2019-05-16T08:00:00Z",
+            "thumbnails": [
+                {
+                    "uuid": "1010c68450439634a52bbedad4be6acbf86",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "images": [
+                {
+                    "uuid": "1011e3db48d2c4b4c6d9697e66cdb044073",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "metadata": {
+                "updatedBy": "elizabethwong@artshouse.sg",
+                "createdBy": "elizabethwong@artshouse.sg",
+                "createdDate": "2019-03-29T15:20:04Z",
+                "updatedDate": "2019-03-29T15:20:04Z"
+            },
+            "categoryDescription": "Events",
+            "singaporeTourismAwards": "N",
+            "typeDescription": "",
+            "eventOrganizer": "Arts House Limited",
+            "price": "",
+            "isExpired": false,
+            "videos": [],
+            "documents": [],
+            "nearestMrtStation": "",
+            "officialWebsite": "www.sifa.sg",
+            "officialEmail": "sifa@artshouse.sg",
+            "dataset": "event",
+            "origin": "ARTS HOUSE LTD.",
+            "tags": [
+                "Full-Day",
+                "Culture Shaper",
+                "Indoors",
+                "Entertainment",
+                "Musicals",
+                "Music",
+                "Exhibitions",
+                "Performances",
+                "Central",
+                "Outdoors",
+                "Singapore International Festival of Arts",
+                "Theatres"
+            ],
+            "description": "3 exhilarating weeks of artistic adventures at Singapore's pinnacle arts festival",
+            "source": "ARTS HOUSE LTD.",
+            "address": {
+                "block": "",
+                "floorNumber": "03",
+                "buildingName": "",
+                "postalCode": "199918",
+                "streetName": "Aliwal Arts Centre, 28 Aliwal St",
+                "unitNumber": "05"
+            },
+            "name": "Singapore International Festival of Arts 2019 ",
+            "location": {
+                "longitude": 0,
+                "latitude": 0
+            },
+            "type": "ARTS"
+        }
+    ],
+    "00247a2707af0134f6ab71e50c29285cedf": [
+        {
+            "typeDescription": "",
+            "body": "Introducing FLYER 360+, a multimedia in-capsule experience on Singapore Flyer that enhances the guests\u2019 flight experience with its rich content on Singapore history, culture and iconic landmarks.\n\nThis elevates the guests\u2019 experience inside the capsule by adding more interactive and educational elements, and also includes fun facts about Singapore Flyer.\n\nBe treated to a visual 360\u02da feast of iconic and historical landmarks 165 metres above the ground. Purchase your flight tickets online now!\n\nIndulge in a multi-sensory dining experience with the Singapore Flyer Sky Dining or toast to the good things in life with the Premium Champagne Flight.",
+            "ticketed": "Y",
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "reviews": [
+                {
+                    "authorName": "Aayush Arora",
+                    "authorURL": "https://www.google.com/maps/contrib/103958690041651885825/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-aBy1nTlJQ3A/AAAAAAAAAAI/AAAAAAAADRc/VbGYkaNRRBE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "If you don't know what to do in your spare time on the trip, chose this flyer! One can't just go wrong with this. You get to see the mesmerizing  landscape of entire Singapore along with a guided interactive infotainment system.",
+                    "time": "2019-04-11T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "praneeth reddy",
+                    "authorURL": "https://www.google.com/maps/contrib/113505856698012675656/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-u2-8VohgkZ0/AAAAAAAAAAI/AAAAAAAAQcY/iumrq7Rr9ZM/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+                    "rating": 5,
+                    "text": "Nice bird's eye view of Singapore. It's a 30mins ride with an amazing experience. Can see lots of places and famous landmarks. The night ride is for just city glittering beauty and day ride is to enjoy the view of beautiful landscape city.",
+                    "time": "2019-04-14T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Max P",
+                    "authorURL": "https://www.google.com/maps/contrib/107161817116944092418/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-dvEDgJGQsM8/AAAAAAAAAAI/AAAAAAAA_9Q/VXKjlKWC1jY/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+                    "rating": 5,
+                    "text": "A relaxing way to kill an hour of your time (the time on the Flyer itself is about 30 minutes).  The views even when your capsule has not yet reached the top are still quite spectacular, and the voice-over video on the various screens inside does a good job of pointing out and describing the various landmarks.",
+                    "time": "2019-04-12T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "adithya nair",
+                    "authorURL": "https://www.google.com/maps/contrib/112584247839955257863/reviews",
+                    "profilePhoto": "https://lh4.googleusercontent.com/-UGV3d3bZkTY/AAAAAAAAAAI/AAAAAAAAAGA/npME5bpSCpk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "A beautiful place surrounded by many shopping complexes....u can see the Singapore formula 1 track from here..........u can have a beautiful view from the flyer  to see the full city of Singapore. .a place worth the money\n..and it has a maximum height of a massive 165 metres height....with special permission you can also dine here......u can even see parts of Malaysia and Indonesia clearly....if u visit singapore this is a must visit place",
+                    "time": "2019-03-28T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "KV Singhania",
+                    "authorURL": "https://www.google.com/maps/contrib/105893286270761079648/reviews",
+                    "profilePhoto": "https://lh5.googleusercontent.com/-3N0_8pGWdqY/AAAAAAAAAAI/AAAAAAAAGIU/b5UnhrZgI9s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "Visit the flyer by 6.30 pm in the evening to see the spectacular night view. Keep your cameras ready for the night shot. You can see the whole singapore from the flyer. If the flyer is visited in the daylight you can see faraway places. Flyer is a must visit for an experience. You can buy the tickets online or you can buy at the ticket counter at the flyer.",
+                    "time": "2019-04-11T00:00:00Z",
+                    "language": "en"
+                }
+            ],
+            "rating": 4.5,
+            "isPrivate": false,
+            "companyDisplayName": "STRACO LEISURE PTE. LTD.",
+            "thumbnails": [
+                {
+                    "libraryUuid": "",
+                    "url": "",
+                    "uuid": "1018bce3cac155d448eaa3419ed259579fd"
+                }
+            ],
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "shortDescription": "",
+            "uuid": "00247a2707af0134f6ab71e50c29285cedf",
+            "amenities": "Carpark,Free Wi-Fi,Gift Shop,Prayer Facilities,Wheelchair Accessible",
+            "images": [
+                {
+                    "libraryUuid": "",
+                    "url": "",
+                    "uuid": "101c327e7581c2048c291f54cb01fc3b83b"
+                },
+                {
+                    "libraryUuid": "",
+                    "url": "",
+                    "uuid": "1011fe6dcc614ae4b91a4d44e10d8df3814"
+                }
+            ],
+            "metadata": {
+                "updatedBy": "Georgina_Koh@stb.gov.sg",
+                "createdBy": "edwardsam@singaporeflyer.com",
+                "createdDate": "2018-08-06T15:37:34Z",
+                "updatedDate": "2018-11-13T14:27:18Z"
+            },
+            "categoryDescription": "Attractions",
+            "videos": [],
+            "documents": [],
+            "pricing": {
+                "child": "",
+                "others": "",
+                "seniorCitizen": "",
+                "adult": ""
+            },
+            "businessHour": [
+                {
+                    "daily": true,
+                    "openTime": "08:30",
+                    "closeTime": "22:00",
+                    "notes": null,
+                    "day": "daily",
+                    "sequenceNumber": 0,
+                    "description": null
+                }
+            ],
+            "nearestMrtStation": "Promenade",
+            "officialWebsite": "www.singaporeflyer.com",
+            "officialEmail": null,
+            "staYear": null,
+            "openingHours": [],
+            "admissionInfo": "Singapore Flight\nAdults: S$33\nChild: S$21\nSenior Citizens (Singaporeans and local residents only): S$24",
+            "dataset": "attractions",
+            "tags": [
+                "Architecture",
+                "Entertainment",
+                "Night",
+                "Unique Venues",
+                "Aerial View",
+                "Marina Bay",
+                "Attractions",
+                "Weddings",
+                "Cityscape",
+                "Unique Dining",
+                "Education",
+                "Formula 1",
+                "National Day",
+                "Lifestyles",
+                "Two People",
+                "Day",
+                "Fireworks"
+            ],
+            "description": "A moving experience at every turn",
+            "source": "STRACO LEISURE PTE. LTD.",
+            "origin": "STRACO LEISURE PTE. LTD.",
+            "address": {
+                "block": "",
+                "streetName": "30 Raffles Avenue",
+                "floorNumber": "",
+                "unitNumber": "",
+                "buildingName": "Singapore Flyer",
+                "postalCode": "039803"
+            },
+            "name": "Singapore Flyer",
+            "location": {
+                "longitude": 103.863248,
+                "latitude": 1.28953
+            },
+            "type": "RECREATION_LEISURE"
+        }
+    ],
+    "002455c9a3ffe614b4e91f0e424f9adf72b": [
+        {
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "reviews": [
+                {
+                    "authorName": "Joanna O",
+                    "authorURL": "https://www.google.com/maps/contrib/103311134406589784579/reviews",
+                    "profilePhoto": "https://lh3.googleusercontent.com/-CjmAVeWlXcU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re2-tkJc4ikNhinTY2pvAxLzrRN4w/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+                    "rating": 5,
+                    "text": "This is a really fun concept that not many places have. We enjoyed the live show and the tram ride, though if you're going on a busy day the line for the tram could get very long. There are a lot of food and gift areas if you want that as well. This is obviously fun for kids but they have a lot of adult-oriented activities too. A great place to visit if you're 5 or 55. Or any age!",
+                    "time": "2019-03-25T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Carl Gruenenfelder",
+                    "authorURL": "https://www.google.com/maps/contrib/111554539591116872939/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-Em7lSapPjk4/AAAAAAAAAAI/AAAAAAAAKPI/MnldbAuQwho/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+                    "rating": 5,
+                    "text": "A \"must visit\" for everyone! Still possibly the best night safari zoo in the world. First take the tram ride for an introduction and to get a feeling of how large the grounds are. Then select your own night safari walk on the trails which have the animals that interest you the most. Take your time so that you can enjoy the experience. Great service because the staff are all friendly & helpful.",
+                    "time": "2019-03-24T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Patrick Williams",
+                    "authorURL": "https://www.google.com/maps/contrib/110281095404114068896/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-r20nJGEC8mM/AAAAAAAAAAI/AAAAAAAArB4/Fm1qIaNdb-0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "Amazing! Do the tram to get you bearings and then make sure to walk all the trails! We went pretty slowly and the entire thing took about 3 hours. The trails weren't very crowded even on a Saturday ( we may have just gotten lucky though) best zoo I've ever been to. Didn't even feel like a zoo!",
+                    "time": "2019-04-14T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Kirk Duncan",
+                    "authorURL": "https://www.google.com/maps/contrib/100352110083008756607/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-RgQstvbQjCc/AAAAAAAAAAI/AAAAAAAAABA/JJFIRpdLO-g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "Fantastic zoo suitable for the whole family. It's great to see so many animals so active. Taking the tram ride is certainly recommended, combining informative commentary with frequent stops to assist in seeing the animals from the comfort of the tram. We took the tram upon arrival, then walked the whole path thereafter. Highly recommend the Night Safari to anyone.",
+                    "time": "2019-04-16T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Info jaya",
+                    "authorURL": "https://www.google.com/maps/contrib/104406337757301615023/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-2b6fOGFSMnM/AAAAAAAAAAI/AAAAAAAAIcg/AEhjskB8gHk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+                    "rating": 5,
+                    "text": "Amazing experience. If you are wild lover, then this is the best place for your visit. animals are so well trained that they do not create any danger for us .It was really fun to see nocturnal animal.There is a battery operated train to visit night safari for both elders and children's . At the time of safari they don't allow to take any photo because the flash of photo my create disturbance for wild animals. Overall its a nice place must visit.",
+                    "time": "2019-04-13T00:00:00Z",
+                    "language": "en"
+                }
+            ],
+            "rating": 4.2,
+            "uuid": "002455c9a3ffe614b4e91f0e424f9adf72b",
+            "isPrivate": false,
+            "companyDisplayName": "stb",
+            "body": "The Night Safari is the world\u2019s first nocturnal wildlife park. Guests can catch a glimpse of animal life in habitats ranging from the Himalayan foothills to Southeast Asian jungles. The park\u2019s four interlinked walking trails feature threatened and endangered species, such as clouded leopard. Visitors can encounter free-ranging wallabies on the Wallaby Trail. Crawling through a cave, visitors can also get close to Ridley\u2019s beauty snakes and Asian black forest scorpions. The Creatures of the Night Show, which showcases survival instincts of nocturnal creatures, is a must-watch.",
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "shortDescription": "",
+            "metadata": {
+                "createdDate": "2017-09-28T07:35:00Z",
+                "updatedDate": "2018-11-12T09:17:57Z",
+                "updatedBy": "dian_yu_from.TP@stb.gov.sg",
+                "createdBy": "stb_tih@stb.gov.sg"
+            },
+            "thumbnails": [
+                {
+                    "uuid": "10727c965196b9d473d81d76bfaf9894eb3",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "images": [
+                {
+                    "uuid": "10185e3ef1320c54e9d8762d861bf3d117c",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "amenities": null,
+            "typeDescription": "",
+            "videos": [],
+            "documents": [],
+            "categoryDescription": "Attractions",
+            "pricing": {
+                "child": "",
+                "others": "Adult: S$45, Child: S$30 (3 - 12 years old),  Senior Citizen: S$18",
+                "seniorCitizen": "",
+                "adult": ""
+            },
+            "businessHour": [
+                {
+                    "daily": true,
+                    "openTime": "19:15",
+                    "closeTime": "00:00",
+                    "notes": null,
+                    "day": "daily",
+                    "sequenceNumber": 0,
+                    "description": null
+                }
+            ],
+            "nearestMrtStation": "Ang Mo Kio Station / Choa Chu Kang Station / Marsiling Station / Woodlands Station",
+            "officialWebsite": "nightsafari.com.sg",
+            "officialEmail": null,
+            "staYear": null,
+            "openingHours": [],
+            "admissionInfo": null,
+            "dataset": "attractions",
+            "ticketed": "Y",
+            "tags": [
+                "Animals",
+                "Wildlife",
+                "Ang Mo Kio",
+                "Adults",
+                "Group of People",
+                "Lifestyles",
+                "Outdoors",
+                "Families",
+                "Attractions",
+                "Kids",
+                "Parks and Gardens"
+            ],
+            "description": "The Night Safari is the world\u2019s first nocturnal wildlife park, housing over 2,500 resident animals from over 130 species.",
+            "source": "stb",
+            "origin": "stb",
+            "address": {
+                "block": "80",
+                "streetName": "Mandai Lake Road",
+                "floorNumber": "",
+                "unitNumber": "",
+                "buildingName": "",
+                "postalCode": "729826"
+            },
+            "name": "Night Safari",
+            "location": {
+                "longitude": 103.7880606,
+                "latitude": 1.4021872
+            },
+            "type": "NATURE_WILDLIFE"
+        }
+    ],
+    "002e0422c2e3849409abbd375f32a67bfa8": [
+        {
+            "body": "<p><b>Guardian of Prosperity</b></p><p>What does it take to guard the prosperity of Singapore? \nA 37 metre-tall mythical creature to be precise. If you think you\u2019ve seen and heard it all, there\u2019s more to the legend inside. Who knows, you could be in luck to uncover more than just curious tales upon making a grand entrance into the larger-than-life icon. Come and see, hear, touch, and feel the grand presence of the regal icon yourself.<br></p>",
+            "amenities": "Carpark,Free Wi-Fi,Gift Shop,Wheelchair Accessible",
+            "ticketed": "Y",
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "uuid": "002e0422c2e3849409abbd375f32a67bfa8",
+            "shortDescription": "",
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "reviews": [
+                {
+                    "authorName": "Sharvil Katariya",
+                    "authorURL": "https://www.google.com/maps/contrib/112364236536368309128/reviews",
+                    "profilePhoto": "https://lh5.googleusercontent.com/-QRcgsNs-utY/AAAAAAAAAAI/AAAAAAAAfJ4/xdz6wOHHxm8/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+                    "rating": 5,
+                    "text": "Definitely worth visiting the Majestic Merlion.  This is much bigger than the Merlion in the main city. The view of the Merlion is surreal with water bodies surrounding it and lush green all around it. Must see if you are visiting Sentosa Island in Singapore. The island is the perfect destination for tourists especially.",
+                    "time": "2019-04-06T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Felix Y",
+                    "authorURL": "https://www.google.com/maps/contrib/116998561095979266487/reviews",
+                    "profilePhoto": "https://lh4.googleusercontent.com/-dJX1tl1_mTM/AAAAAAAAAAI/AAAAAAAAEG8/I1h3afsNpc4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 2,
+                    "text": "Interior was nice on the ground level. The lucky token was a nice idea. The views were good but it was way too crowded and not worth the wait on the narrow stairway. The lucky bell was also way too loud for such a tiny confined space. I would recommend the cable car if you want views of the island.",
+                    "time": "2019-03-08T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Cheung Wong",
+                    "authorURL": "https://www.google.com/maps/contrib/101063153647147920380/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-QDfNzxmCxSo/AAAAAAAAAAI/AAAAAAAAYfY/fBarsV9Gc5s/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "Definitely come here during the weekdays.  Much less people and hence much easier to take pictures without tons of people around.   Then walk is nice as long as you come here in the afternoon while the sun is setting.  Sea breeze definitely helps to cool you down a bit.   Prepare to do tons of walking unless you are paying for the monorails.",
+                    "time": "2019-02-20T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Big Mercury",
+                    "authorURL": "https://www.google.com/maps/contrib/101549699232911652348/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-uv8X8YV0qLI/AAAAAAAAAAI/AAAAAAAAANg/SaG2GKBjmxU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "This place was very enjoyable. Pay one time SGD $4 for the train to the island then you can travel free inside the island by train or tram. Everything here is just well designed, clean, beautiful and interesting.",
+                    "time": "2019-04-03T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "G V",
+                    "authorURL": "https://www.google.com/maps/contrib/118049457472727435582/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-a8UtZfIZes4/AAAAAAAAAAI/AAAAAAAACQU/7E5tjY5g1PY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 3,
+                    "text": "Sentosa Merlion! A place to take a good couple of snaps and thats about it. Don\u2019t even bother taking a trip up the top. There is nothing to see and a sheer waste of money. Usually there are some nice song and dance performance below near the Merlion monorail station",
+                    "time": "2019-03-24T00:00:00Z",
+                    "language": "en"
+                }
+            ],
+            "rating": 4.5,
+            "isPrivate": false,
+            "companyDisplayName": "One Faber Group",
+            "thumbnails": [
+                {
+                    "uuid": "101a72cfac851484eb58873774886407dbb",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "images": [
+                {
+                    "uuid": "101e869b65752a14df2925ae29c3a065ba0",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "metadata": {
+                "updatedBy": "dorothy.soo@onefabergroup.com",
+                "createdBy": "dorothy.soo@onefabergroup.com",
+                "createdDate": "2018-12-06T17:49:20Z",
+                "updatedDate": "2018-12-07T10:29:08Z"
+            },
+            "categoryDescription": "Attractions",
+            "typeDescription": "",
+            "videos": [],
+            "documents": [],
+            "staYear": null,
+            "openingHours": [],
+            "pricing": {
+                "child": "",
+                "others": "admission tickets from $15.00",
+                "seniorCitizen": "",
+                "adult": ""
+            },
+            "businessHour": [
+                {
+                    "daily": true,
+                    "openTime": "10:00",
+                    "closeTime": "20:00",
+                    "notes": null,
+                    "day": "daily",
+                    "sequenceNumber": 0,
+                    "description": null
+                }
+            ],
+            "nearestMrtStation": "Harbourfront",
+            "officialWebsite": "www.onefabergroup.com",
+            "officialEmail": "guestrelations@onefabergroup.com",
+            "admissionInfo": "Sentosa Merlion: $18.00 Adult $15.00 Child/Senior\nSentosa Merlion Guided Tour (Guided Tour timing: 11.45 am, 1.45 pm or 3.45 pm): $25.00 Adult $20.00 Child/Senior\nSenior citizen aged 60 and above. Child aged 4- 12 years old.",
+            "dataset": "attractions",
+            "origin": "MOUNT FABER LEISURE GROUP PTE. LTD.",
+            "tags": [
+                "Merlion",
+                "Sentosa",
+                "Aerial View",
+                "Attractions",
+                "Cityscape"
+            ],
+            "description": "If you think you know everything about the Sentosa Merlion, think again. Discover new trivia and learn how the Sentosa Merlion came to be the Guardian of Prosperity of Singapore at the only Merlion open for exploration!",
+            "source": "MOUNT FABER LEISURE GROUP PTE. LTD.",
+            "address": {
+                "block": "",
+                "floorNumber": "",
+                "buildingName": "Sentosa Merlion",
+                "postalCode": "099705",
+                "streetName": "30 Imbiah Road",
+                "unitNumber": ""
+            },
+            "name": "Sentosa Merlion",
+            "location": {
+                "longitude": 103.818897,
+                "latitude": 1.253345
+            },
+            "type": "HISTORY_CULTURE"
+        }
+    ],
+    "0022ab5439007434431af0a10a5a343337b": [
+        {
+            "typeDescription": "",
+            "uuid": "0022ab5439007434431af0a10a5a343337b",
+            "isPrivate": false,
+            "companyDisplayName": "Sentosa Development Corporation",
+            "ticketed": null,
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "reviews": [
+                {
+                    "authorName": "HUYNH TUAN OFFICIAL",
+                    "authorURL": "https://www.google.com/maps/contrib/105616607509149355642/reviews",
+                    "profilePhoto": "https://lh4.googleusercontent.com/-OEeHI5VdQ8s/AAAAAAAAAAI/AAAAAAAACEE/VNZ1cstSEFI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "I step out into the jungle and explore a wilderness teeming with birds, insects, other wildlife and plants in all manner of different habitats.\nOpen at 9am - 5pm Daily.\nFree admission\nYou will capture some green picture like me below :))",
+                    "time": "2019-03-05T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Geraldine Tan",
+                    "authorURL": "https://www.google.com/maps/contrib/113037118850921117966/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-aMZ1YADtbjg/AAAAAAAAAAI/AAAAAAAAALY/xM9ysBLBYxk/s128-c0x00000000-cc-rp-mo/photo.jpg",
+                    "rating": 5,
+                    "text": "I love the nature walk.  You get to explore different kinds of plants n tree. And saw a few beautiful fountain. Is one of a good family or friends bonding activities. The workers there are friendly n without their hardwork to maintain all the tree n plants etc.  We wont get to enjoy the beautiful nature walk.  Love it.  \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+                    "time": "2018-10-01T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "\u5bb6ReTohVira",
+                    "authorURL": "https://www.google.com/maps/contrib/101326179216721677495/reviews",
+                    "profilePhoto": "https://lh5.googleusercontent.com/-imkf46nNTgI/AAAAAAAAAAI/AAAAAAAAfJU/hq1QKRPmeNE/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+                    "rating": 4,
+                    "text": "Nice quiet short walk away bustling scene of sentosa.",
+                    "time": "2018-12-29T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Zubeida Mayet",
+                    "authorURL": "https://www.google.com/maps/contrib/113428971074412964000/reviews",
+                    "profilePhoto": "https://lh3.googleusercontent.com/-pPyQSISKLyk/AAAAAAAAAAI/AAAAAAAAAH8/E0YzLx9rI3s/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "Very interesting. Practical knowledge about nature which we take for granted.i learned a lot.definately learnt a lot.",
+                    "time": "2018-12-13T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Ryan Wong",
+                    "authorURL": "https://www.google.com/maps/contrib/108896874497644773275/reviews",
+                    "profilePhoto": "https://lh5.googleusercontent.com/-KBMhEvWx4DM/AAAAAAAAAAI/AAAAAAAATs4/rnMl3_gj_go/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+                    "rating": 5,
+                    "text": "Very good place for kids to visit",
+                    "time": "2019-01-12T00:00:00Z",
+                    "language": "en"
+                }
+            ],
+            "rating": 4.3,
+            "shortDescription": "",
+            "amenities": null,
+            "body": "<p>Get set for a hands-on journey of discovery and sharpen your detective skills. At Sentosa Nature Discovery, nature and fun go hand-in-hand.</p> <p>The exploration starts with a fascinating gallery of interactive exhibits at the Gallery to brush up your Science Process Skills: Observe, Classify, Compare and Infer. Equipped with these skills, step out into the jungle and explore a wilderness teeming with birds, insects, other wildlife and plants in all manner of different habitats.</p>",
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "thumbnails": [
+                {
+                    "uuid": "101e59dec3dfe164072a4092da84998df33",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "images": [
+                {
+                    "uuid": "101babac7de7f4c42b6a919320c95513f59",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "metadata": {
+                "updatedBy": "Georgina_Koh@stb.gov.sg",
+                "updatedDate": "2018-11-14T21:42:12Z",
+                "createdBy": "pang_min_jie@sentosa.com.sg",
+                "createdDate": "2018-04-06T18:21:00Z"
+            },
+            "categoryDescription": "Attractions",
+            "videos": [],
+            "documents": [],
+            "pricing": {
+                "child": "",
+                "others": "Free. For Guided Tours contact us at 1800- SENTOSA (736 8672) or email to nature@sentosa.com.sg",
+                "seniorCitizen": "",
+                "adult": ""
+            },
+            "businessHour": [],
+            "nearestMrtStation": null,
+            "officialWebsite": null,
+            "officialEmail": null,
+            "staYear": null,
+            "openingHours": [],
+            "admissionInfo": null,
+            "dataset": "attractions",
+            "tags": [
+                "Wildlife",
+                "Sentosa",
+                "Attractions"
+            ],
+            "origin": "Sentosa Development Corporation",
+            "description": "Embark on a hands-on journey of discovery and sharpen your detective skills. At Sentosa Nature Discovery, nature and fun go hand-in-hand.",
+            "source": "Sentosa Development Corporation",
+            "address": {
+                "block": "",
+                "streetName": "",
+                "floorNumber": "",
+                "unitNumber": "",
+                "buildingName": "",
+                "postalCode": "099702"
+            },
+            "name": "Sentosa Nature Discovery",
+            "location": {
+                "longitude": 103.817397,
+                "latitude": 1.255842
+            },
+            "type": "NATURE_WILDLIFE"
+        }
+    ],
+    "00220fee182f7e44865bfa171afb05b0340": [
+        {
+            "defaultLanguage": "EN",
+            "supportedLanguage": [
+                "EN"
+            ],
+            "reviews": [
+                {
+                    "authorName": "Tyler Pierce",
+                    "authorURL": "https://www.google.com/maps/contrib/117500352189071791073/reviews",
+                    "profilePhoto": "https://lh5.googleusercontent.com/-_GY2QgWu794/AAAAAAAAAAI/AAAAAAAAEkA/R-AizRKryCo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "Really fun and cool to ride the SkyTram up and the Luge down. I especially recommend going at night. The Dragon Trail was the best in my opinion, but they were all good. I recommend trying all of them. Really fun and an experience you can\u2019t miss.",
+                    "time": "2019-03-25T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Shahrukh Davar",
+                    "authorURL": "https://www.google.com/maps/contrib/100033111251005204224/reviews",
+                    "profilePhoto": "https://lh5.googleusercontent.com/-myqcnjhJt3o/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd9_-3Uh9rAqdc_dU6dLu39q5n6fg/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+                    "rating": 3,
+                    "text": "Inordinately long ques.  Fantastic ride ends in a few seconds after waiting for about half an hour at least. Direction signage is very poor though presuming we would take the shuttle bus.  However the bus has a frequency of 10 - 15 minutes and the actual walking distance would be 5 minutes",
+                    "time": "2019-04-08T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Chew Nicole",
+                    "authorURL": "https://www.google.com/maps/contrib/109090371531652284779/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-MEuxRRPEz8I/AAAAAAAAAAI/AAAAAAAALYU/u99mwcjJm4U/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 4,
+                    "text": "It's really a place for families and friends to hang out, and experience the thrill of go-karting together!! The skyline luge is a good opportunity for one to catch a scenic view of Singapore and take a breather from all the stress :)",
+                    "time": "2019-04-10T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Jonathan Seow",
+                    "authorURL": "https://www.google.com/maps/contrib/103550376519827167044/reviews",
+                    "profilePhoto": "https://lh6.googleusercontent.com/-fw32SbwjvF8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcJL8RuopquVtLs-dj0IK3kRstN9Q/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "Really fun. Pricey but good fun. Downhill ride is not very long but the ride up is very scenic. Luge is a little short for the younger ones. My 5 year old would have trouble controlling it on his own. But there's enough space for an adult to ride with a kid.",
+                    "time": "2019-04-12T00:00:00Z",
+                    "language": "en"
+                },
+                {
+                    "authorName": "Ma. Emily Sy",
+                    "authorURL": "https://www.google.com/maps/contrib/110018269164973520967/reviews",
+                    "profilePhoto": "https://lh4.googleusercontent.com/-h-59KLdQkaY/AAAAAAAAAAI/AAAAAAAAACM/bTn7tvwIcIE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                    "rating": 5,
+                    "text": "It was fun! Kudos especially to the fact that you can get all your photos (everyone in the group / family) for only $10. They will send to one email. This is way more economical than printing 1 or 2 photos for $20 at other attraction places. Amazed also that you can check your photos by scanning your helmet. Cheers to a good customer service!",
+                    "time": "2018-12-21T00:00:00Z",
+                    "language": "en"
+                }
+            ],
+            "rating": 4.6,
+            "uuid": "00220fee182f7e44865bfa171afb05b0340",
+            "isPrivate": false,
+            "companyDisplayName": "Skyline Luge Sentosa Company Pte Ltd",
+            "body": "Skyline Luge is a unique wheeled gravity ride that provides riders full control over their descent on purpose-built track. Thrill-seekers can navigate the Jungle trail or challenge themselves on the Dragon trail - then try one of our two brand new Luge tracks - Kupu Kupu (638m) and Expedition (358m) that twist and turn through the mystical forest. Enjoy 2.6 kilometres of fun with your loved ones and feel the cool wind in your hair as you zoom down the tracks. As we always say... once is never enough.",
+            "contact": {
+                "primaryContactNo": "",
+                "secondaryContactNo": "",
+                "otherContactNo": ""
+            },
+            "shortDescription": "",
+            "metadata": {
+                "createdDate": "2018-04-06T18:58:00Z",
+                "updatedDate": "2018-11-12T15:22:27Z",
+                "updatedBy": "Georgina_Koh@stb.gov.sg",
+                "createdBy": "Dean.Johnson@skylineluge.com"
+            },
+            "thumbnails": [
+                {
+                    "uuid": "101479d839d2b89486a8ac3a329b0c51958",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "images": [
+                {
+                    "uuid": "10158114eedf9f14f74915af1e45f0f640c",
+                    "libraryUuid": "",
+                    "url": ""
+                }
+            ],
+            "amenities": "Gift Shop",
+            "typeDescription": "",
+            "videos": [],
+            "documents": [],
+            "categoryDescription": "Attractions",
+            "pricing": {
+                "child": "",
+                "others": "2 Luge + Skyride Combo ($23), 4 Luge + Skyride Combo ($28), 6 Luge + Skyride Combo ($39)",
+                "seniorCitizen": "",
+                "adult": ""
+            },
+            "businessHour": [
+                {
+                    "daily": true,
+                    "openTime": "10:00",
+                    "closeTime": "21:30",
+                    "notes": null,
+                    "day": "daily",
+                    "sequenceNumber": 0,
+                    "description": null
+                }
+            ],
+            "nearestMrtStation": "Harbourfront Station",
+            "officialWebsite": "www.skylineluge.sg",
+            "officialEmail": "sentosa@skylineluge.com",
+            "staYear": null,
+            "openingHours": [],
+            "admissionInfo": null,
+            "dataset": "attractions",
+            "ticketed": "Y",
+            "tags": [
+                "Sentosa",
+                "Outdoors"
+            ],
+            "description": "Skyline Luge Sentosa is the first-ever fun-filled gravity thrill ride introduced in Southeast Asia that\u2019s safe for all ages, now with two thrilling new luge tracks and a brand new Skyride, offering multiple unique experiences not to be missed!",
+            "source": "Skyline Luge Sentosa Company Pte Ltd",
+            "origin": "Skyline Luge Sentosa Company Pte Ltd",
+            "address": {
+                "block": "45",
+                "streetName": "Siloso Beach Walk",
+                "floorNumber": "",
+                "unitNumber": "",
+                "buildingName": "",
+                "postalCode": "099003"
+            },
+            "name": "Skyline Luge Sentosa",
+            "location": {
+                "longitude": 103.8169385,
+                "latitude": 1.251937
+            },
+            "type": "RECREATION_LEISURE"
         }
     ]
 }
